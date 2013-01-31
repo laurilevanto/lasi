@@ -1,0 +1,158 @@
+<html>
+<head>
+<script language="JavaScript">
+function recalc(form){
+  inp = eval( form.inp.value );
+  rad = "??";
+  for (i=0;i<form.rad.length;i++)
+    if (form.rad[i].checked )
+      rad = form.rad[i].value;
+    
+  // alert ( "inp = " + inp + "\n" +"rad = " + rad );
+  if (rad == "fc" )
+      res= Math.round(100*(inp-32)/1.8)/100;
+  else if ( rad == "cf" )
+    res= Math.round(100*(inp*1.8+32))/100;
+  else   if (rad == "fh" )
+    res= Math.round(100*inp/1.8)/100;
+  else if ( rad == "ch" )
+    res= Math.round(100*inp*1.8)/100;
+  else   if (rad == "in" )
+    res= Math.round(100*inp*2.540)/100;
+  else if ( rad == "cm" )
+    res= Math.round(100*inp/2.540)/100;
+  else   if (rad == "sqin" )
+    res= Math.round(100*inp*6.452)/100;
+  else if ( rad == "cm2" )
+    res= Math.round(100*inp/6.452)/100;
+  else   if (rad == "cuin" )
+    res= Math.round(100*inp*16.387)/100;
+  else if ( rad == "cm3" )
+    res= Math.round(100*inp*0.061)/100;
+ else   if (rad == "ozgr" )
+    res= Math.round(100*inp*28.35)/100;
+  else if ( rad == "groz" )
+    res= Math.round(100*inp/28.35)/100;
+ else   if (rad == "lbs" )
+    res= Math.round(100*inp*0.4536)/100;
+  else if ( rad == "kg" )
+    res= Math.round(100*inp/0.4536)/100;
+  else if ( rad == "spgr" )
+    res= Math.round(100*inp*2.58)/100;
+  else if ( rad == "grsp" )
+    res= Math.round(100*inp/2.58)/100;
+  else if ( rad == "cuinoz" )
+    res= Math.round(100*inp*1.491)/100;
+  else if ( rad == "ozcuin" )
+    res= Math.round(100*inp/1.491)/100;
+
+
+  else
+    res = "X";
+     document.getElementById('result').innerHTML = res;
+}
+</script>
+</head>
+
+<body>
+Lauri Levanto
+<table Width ="100%">
+<td><h2> Unit Converter   </h2></td><td><h2>Muunnoslaskin </h2></td>
+ </table>
+
+<form action=""  method="post" >
+  <table>
+    <tr> 
+      <td> <b>Input value</b> </td>
+      <td><input type="text" name="inp" maxlength="9" onKeyUp="recalc(this.form);" /> </td>
+      <td>=><td><b id=result>X</b> </td>
+    </tr>
+    </table>
+    <table>
+    <tr>
+      <td> F => C </td>
+      <td><input type="radio" name="rad" value="fc"  onClick="recalc(this.form);" /></td>
+      <td>C=>F </td>
+      <td><input type="radio" name="rad" value="cf" onClick="recalc(this.form);" /></td>
+   </tr>
+   <tr>
+      <td> F/h => C/h </td>
+      <td><input type="radio" name="rad" value="fh" onClick="recalc(this.form);" /></td>
+      <td>C/h=>F/h </td>
+      <td><input type="radio" name="rad" value="ch" onClick="recalc(this.form);" /></td>
+   </tr>
+   <tr>
+      <td> in=>cm<sup>(a)</sup> </td>
+      <td><input type="radio" name="rad" value="in" maxlength="6"  onClick="recalc(this.form);" /></td>
+      <td>cm=>in</td>
+      <td><input type="radio" name="rad" value="cm"  maxlength="6"  onClick="recalc(this.form);" /></td>
+   </tr>
+   <tr> 
+      <td> sq.in=>cm<sup>2</sup> </td>
+      <td><input type="radio" name="rad" value="sqin" maxlength="6" onClick="recalc(this.form);" /></td>
+      <td>cm<sup>2</sup>=>sq.in</td>
+      <td><input type="radio" name="rad" value="cm2" maxlength="6" onClick="recalc(this.form);" /></td>
+   </tr>
+   <tr>
+      <td> cu.in=>cm<sup>3</sup> </td>
+      <td><input type="radio" name="rad" value="cuin" maxlength="6" onClick="recalc(this.form);" /></td>
+      <td>cm<sup>3</sup>=>cu.in</td>
+      <td><input type="radio" name="rad" value="cm3" maxlength="6" onClick="recalc(this.form);" /></td>
+   </tr>
+   <tr>
+      <td> ounce=>gr </td>
+      <td><input type="radio" name="rad" value="ozgr" maxlength="6" onClick="recalc(this.form);" /></td>
+      <td>gr=>ounce</td>
+      <td><input type="radio" name="rad" value="groz" maxlength="6" onClick="recalc(this.form);" /></td>
+   </tr>
+   <tr>
+      <td> lbs=>kg </td>
+      <td><input type="radio" name="rad" value="lbs" maxlength="6" onClick="recalc(this.form);" /></td>
+      <td>kg=>lbs</td>
+      <td><input type="radio" name="rad" value="kg" maxlength="6" onClick="recalc(this.form);" /></td>
+   </tr>
+   <tr>  
+     <td> <b>Weight <br>of Glass </b> <sup> (b) </sup></td>
+     <td> <b>Lasin paino </b> <sup> (c) </sup>
+   </tr>
+   <tr>
+      <td> cm<sup>3</sup>=>gr </td>
+      <td><input type="radio" name="rad" value="spgr" maxlength="6" onClick="recalc(this.form);" /></td>
+      <td>gr=>cm<sup>3</sup></td>
+      <td><input type="radio" name="rad" value="grsp" maxlength="6" onClick="recalc(this.form);" /></td>
+   </tr>
+      <tr>
+      <td>cu in =&gt;ounce </td>
+      <td><input name="rad" value="cuinoz" maxlength="6" onclick="recalc(this.form);" type="radio"></td>
+      <td>ounce <br>=&gt;cu in</td>
+      <td><input name="rad" value="ozcuin" maxlength="6" onclick="recalc(this.form);" type="radio"></td>
+   </tr>
+
+</form>
+
+<hr></hr>
+<table>
+<tr>
+<td> <hr></td>
+</tr>
+
+<tr>
+<td>
+<p>
+   <b>(a)</b> Fractions of an inch must be given in decimal form <br>
+   3/4=0.75 <br>
+   1/2=0.5 <br>
+   3/8=0.375 <br>
+   1/4=0.25 <br>
+   1/8=0.125 <br>
+ </p>
+ <p>
+ <b>(b) </b> Specific weight <b>2.58 </b> of <i>solid clear soda-lime glass </i> assumed <br>
+     Colored glass may differ. 
+</p>
+<p>
+      <b> (c) </b> Ominaispaino b>2.58 </b> on <i>kirkkaan sooda-kalkkilasin </i> ominaispainoa <br>
+     Värioksidit muuttavat ominaispainoa jonkin verran 
+     </p>
+</td>
+</table>

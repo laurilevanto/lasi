@@ -1,0 +1,227 @@
+<html>
+<- 22.11.08
+<h2>Polton kulku</h2>
+<img src="../paketti/p-ohje.jpg" width=600 align=center> <br> <b>Polton kulku </b></img> Kuva ei ole mittakaavassa.
+<p>
+Lasin polttamisessa on eri vaiheita. Musta yhtenäinen viiva kuvaa unnin ohjelmaa,
+ katkoviiva lasin lämpötilaa. Huomaa miten lasin lämpö muuttuu aina myöhemmin ja juohevammin.
+<ul>
+ <li> 1. vaiheessa kun kylmä lasi pannaan uunniin 
+ on lämpöä nostettava niin hitaasti ettei lämpöshokki halkaise lasia.
+ Tämä jakso ulottuu 540-600 asteeseen asti. Punainen <strong><font size="3" color="#FF0000">1.</font></strong> näyttää miten itse lasi
+ seuraa hitaammin lämmön nousua. Se on tämän verran kylmempää kuin mitä uuni näyttää.</li>
+ <li> 2. jakso, kuplanpoisto, on vielä hitaampi. Siinä odotetaan että ilma lasien välissä 
+ laajenee kuumuudesta ja ehtii poistua reunojen ali ennenkuin lasin pehmetessä 
+ reunat tiivistyvät yhteen. Tähän on kaksi tapaa: toiset hauduttavat jossakin
+ 570 kohdalla puoli tuntia, ja toinen tapa on nostaa lämpö 
+ vain kyllin hitaasti n. 620 asti.</li>
+
+ <li> 3. vaiheessa lasi on jo selvästi nestemäistä, vaikka jäykkää.
+Siinä lasi ei aseta enää rajoituksia lämmitykselle, vaan se tehdään yleensä
+uuniin täydellä teholla suoraan tyälämpötilaan. 
+Kipsimuotin halkeilemisen välttämiseksi tätäkin jaksoa 
+joskus hidastetaan tuntuvasti. 
+</li>
+
+<li> 4. jakso on työlämpötilassa hauduttaminen. Lämpö pidetään yleensä tasaisena. Lämpötila
+ja aika vaihtelee tilanteen mukaan. Katso taulukkoa jäljempänä.</li>
+
+<li> 5. jakso on nopea jäähdytys, 
+jonka tarkoituksena on pysäyttää lasin muutokset.
+Punainen <b><font size="3" color="#FF0000">2.</font></b> näyttää miten 
+lasin jäähtyminen vuorostaan tapahtuu uunia hitaammin.</li>
+
+<li> 6. vaiheessa haudutetaan lämmön tasaamiseksi ennen jännityksenpoistoa.
+Kun lasin lämpötila tuee lähelle uunin lämpötilaa tasaantuminen hidastuu.
+Siksi aika on esim 6 mm lasille noin tunti.
+</li>
+<li> 7. vaihe on varsinainen jännityksenpoisto. 
+Siinä lasi jäähtyy muuntumisalueen läpi juoksevasta kiinteäksi.
+  Punainen <b><font size="3" color="#FF0000">3.</font></b> ilmaisee
+  että tässä vaiheessa lasin ytimen ja pinnan välillä ei saa olla 
+  viittä astetta suurempaa eroa. illoin ytimen pidempään jatkuva kutistuminen
+  ei aiheuta liikaa jännitystä lasiin. </li>
+<li> 8. vaihe, loppujäähdytys, jossa lasi on taas kiinteää. 
+  Punainen <b><font size="3" color="#FF0000">4.</font></b> merkkaa
+  sitä että uuni ja lasi jäähtyvät matalassa lämmössä 
+  huomattavasti hitaammin kun ohjelma. 
+  useimmiten riittää kun uuni saa jäähtyä itsekseen. </li>
+  Se kestää sietämättömän kauan, mutta ohiutakaan esineitä
+  ei saa ottaa uunista ennekuin sen voi tehdä paljain käsin.
+  paksut lasit saavat olla uunissa kunnes uuni on honeenlämpöinen.
+
+</ul>
+<h2>Yksinkertainen poltto-ohjelma</h2>
+
+Allaolevassa taulukossa on yksinkertainen tapa ohjelmoida poltto eri tarkoituksiin.<br>
+<i><font size="+1">Valmisohjelmiin ei pidä luottaa. Ei tähänkään.</font></i> 
+Jokainen uuni on erilainen, jokainen haluaa lasilta erilaisen tuloksen. 
+Nämä ovat lähtöarvoja, josta voi kokeilla itselleen sopivat. Olen käyttänyt niitä
+yksikerrospoltossa lasiuunissa ja monikerrospoltossa keramiikkauunissa. <br>
+Ohjelma on paljon varovaisempi kuin <a href="../uuni/monikerros.php"> monikerrospolton</a> yhteydessä esitetty.
+<p>
+merkkien selitys
+<table border cols=2>
+<tr> <td> -> </td> <td> lämmön nosto</td> 
+<tr> <td> = </td><td> haudutus</td> </tr>
+<tR> <td> <-</td><td> jäähdytys</td></tr>
+</table>
+<br>
+<br>
+Lasi 1-3 kerrosta Bullseye lasia. Yli 9mm paksuudella jäähdytysajat ovat <i>paljon pidempiä</i>.
+
+<table cols=13 border width=08%>
+<tr>
+<td>&nbsp;</td>
+<td colspan=2> Pintafuusaus</td>
+<td colspan=2> Syväfuusaus</td>
+<td colspan=2> Slumppaus</td>
+<td> selitys </td>
+</tr>
+<tr>
+<td>vaihe</td>
+<td>lämpöön</td>
+<td>aika</td>
+<td>astetta</td>
+<td>aika</td>
+<td>astetta</td>
+<td>aika</td>
+<td>&nbsp;</td>
+</tr>
+<td>1 -></td>
+<td>620</td>
+<td>2:30 </td>
+<td>620</td>
+<td>2:30</td>
+<td>620</td>
+<td bgcolor="#ffffco"><b>3:00</b></td>
+<td>Lämpöshokin alue hitaasti. Jokaisessa uusintapoltossa hitaammin.</td>
+</tr>
+<tr>
+<td>2 = </td>
+<td>620</td>
+<td>0:30 </td>
+<td>620</td>
+<td>0:30 </td>
+<td>620</td>
+<td bgcolor="#ffffco"><b>0:03</b></td>
+<td> kuplanpoistohaudutus, ei tarvita slumppauksessa</td>
+</tr>
+<tr>
+<td>3 -></td>
+<td bgcolor="#ffffco"><b>720-740</b></td>
+<td>1:00</td>
+<td bgcolor="#ffffco"><b>780-820</b></td>
+<td>1.30</td>
+<td bgcolor="#ffffco"><b>620-720</b></td>
+<td>30</td>
+<td>Työlämpötila vaihtelee näistä noin. +/- 20 astetta</td>
+</tr>
+<tr>
+<td>4 =</td>
+<td bgcolor="#ffffco"><b>sama</b></td>
+<td bgcolor="#ffffco"><b>0:20</b></td>
+<td bgcolor="#ffffco"><b>sama</b></td>
+<td bgcolor="#ffffco"><b>0:20</b></td>
+<td bgcolor="#ffffco"><b>sama</b></td>
+<td bgcolor="#ffffco"><b>0:20</b></td>
+<td> haudutus on helpointa pitää vakiona ja säätää työlämpötilaa.</td>
+</tr>
+<tr>
+<td>5 <- </td>
+<td>515</td>
+<td>skip</td>
+<td>515</td>
+<td>skip</td>
+<td>515</td>
+<td>skip</td>
+<td> nopea alkujäähdytys, uunia voi tuulettaa mutta 
+se ei ole hyväksi ainakaan tiiliuunille </td>
+</tr>
+<tr>
+<td>6 =</td>
+<td>515</td>
+<td>1:00</td>
+<td>515</td>
+<td>1:00</td>
+<td>515</td>
+<td>1:00</td>
+<td bgcolor="#ffffco"> lämmön tasaus. 
+Jos lämpöä sitova muotti tai olet muuten epävarma, pidennä aika kaksinkertaiseksi</td>
+</tr>
+<tr>
+<td>7 <- </td>
+<td>370</td>
+<td>2:00</td>
+<td>370</td>
+<td>2:00</td>
+<td>370</td>
+<td>2:00</td>
+<td bgcolor="#ffffco"> jännityksenpoisto. Vähintäin <i>kaksi kertaa haudutuksen aika</i></td>
+</tr>
+<tr>
+<td>8 <- </td>
+<td>50</td>
+<td>1:30</td>
+<td>50</td>
+<td>1:30</td>
+<td50</td>
+<td>1:30</td>
+<td>4.1</td>
+<td> loppujäähdytys, yleensä uuni on tätä hitaampi. </td>
+</tr>
+</table>
+kokonaisaika on noin 10-30 t uunin jäähtymiskyvystä riippuen
+
+<p>
+<b>Skip</b> tarkoittaa niin nopeasti kuin uuni pystyy kuumenemaan tai jäähtymään.
+Se asetetaan asettamalla aika nollaksi
+<b>End</b> on ohjelman loppu. Asetetaan lämpötila nollaksi (Bentrupin ohjaimessa, joissakin muissa
+ajaksi pitää asettaa 9999).
+<p>
+Vaiheen 7 jälkeen voi jäähtymisen nopeuttamiseksi avata uunin tuuletusaukon, tai arkku-uunissa raottaa 
+kantta hiukan. Vaiheet 7-8 ovat usein "turhia", uuni jäähtyy luonnostaan hitaammin.
+Varmistuksena pidän kuitenkin nämä ohjelma-askeleet mukana. Jos uuni jäähtyykin
+jostain syystä nopeammin, ohjain korjaa silloin tilanteen.
+<p>
+Ohjelma on suunniteltu yksinkertaiseksi. Van lihavoidulla merkittyjä arvoja tarvitsee 
+muuttaa eri polttotapojen välillä. Käyttämässäni Bentrup 6/80 ohjaimessa 
+on vain yksi ohjelmapaikka ja siinä 8 ohjelma-askelta.
+<p>
+Vaativimpien töiden kanssa kokeile pienellä koepalalla. <br>
+Paksujen lasien jäähdytys on tuntuvasti pidempi.
+ Valmistajien sivuilta löytyy ohjeita. 
+ Katso myös <a href="..//uuni/thick-anneal.php"> paksun lasin jäähdytys</a>
+ja paksuuden vaikutus -sivut.
+<p>
+Muita aiheeseen liittyviä sivuja
+<table border bgcolor ="#e0ffe0">
+<tr>
+  <td> <a href="../uuni/thick-anneal.php"> Paksun lasin jäähdytys</a></td>
+</tr>
+<tr>
+  <td> <a href="../uuni/paksuus1.php"> Paksuus alle 10 mm </a></td>
+</tr>
+<tr>
+  <td> <a href="../uuni/paksuus2.php"> Paksuus yli 10 mm </a></td>
+  </td>
+</tr>
+<tr>
+  <td> <a href="../mater/testaaminen.php"> Testaaminen</a></td>
+</tr>
+<tr>
+  <td> <a href="../mater/polarisaatio.php"> Polarisaatiotesti</a></td>
+</tr>
+<tr>
+  <td><a href="../uuni/lasiuuni.php"> Lasiuuni</a></td>
+</tr>
+<tr>
+  <td><a href="../uuni/keram-uuni.php"> Keramiikkauuni</a></td>
+</tr>
+<tr>
+  <td><a href="../uuni/uunikirja1.php"> Uunin päiväkirja</a></td>
+</tr>
+</table>
+
+
+</html>

@@ -1,0 +1,77 @@
+
+http://www.warmglass.com/phpBB/viewtopic.php?t=22259&highlight=science+investment
+
+http://www.warmglass.com/phpBB/viewtopic.php?t=20819&highlight=surface+quality+mold
+
+http://www.warmglass.com/phpBB/viewtopic.php?t=23402&highlight=surface+quality+mold
+
+http://www.warmglass.com/phpBB/viewtopic.php?t=19471&highlight=surface+quality+mold
+o with all these points as "things we will not argue about", let's introduce the point that is up for debate. If the 1" thick slab of glass will "equalize" in 4 hours at 960 and maintain a "equalized" temperature cooling at 27 dph to 800F then that same 1" thick glass mass will "equalize" in temperature at 1250F in 4 hours (actually less, but don't argue about that point either) and if you cooled it down at 27 dph to some point below the softening point (1200F) you would have taken care of all problems caused by "uneven heating and cooling" because you have a glass mass that is within tolerance (+/- 5F) during this critical time just before and after the glass's softening point. 
+
+treasurehunter
+
+
+
+Joined: 25 Oct 2003
+Posts: 130
+
+Post  Posted: Sat Jul 22, 2006 7:15 pm    Post subject: Reply with quote   Report Post
+  Hugh - 
+ 
+ I think you make some good points about slow cooling. 
+ I mentioned trying a similar fire-down after Bert's post where 
+ he talked about holding at 1250.  Sounds like a good idea. 
+ But gaps in surface continuity could still appear 
+ if the material is forced to stretch on cooling,
+  whether or not the cooling is even, and exclusive of mold wall changes, 
+  gas, etc. Here's an example: 
+ 
+ Visualize a common bulb thermometer with the red fluid. 
+ We now cool its environment very slowly over time so we can assume 
+ there are no meaningful temperature gradients in the thermometer,
+  and the red line contracts some distance through the small
+   tube towards the bulb. 
+   If you have a mold with a similar geometry,
+    the only way to keep the 'line' completely filled with material 
+    as it cools is to feed it with warmer material - uneven cooling by design. 
+    If your 'bulb' part cools at essentially the same rate as the 'line', 
+    you lose the ability to feed the 'line' while everything shrinks. 
+    The trapped material stretches under tension and may pull away
+     from the mold wall at various points while it still has some plasticity.
+      Having your mold material match the shrinkage characteristics of glass 
+      would obviously help here. 
+ 
+ Casting is a complex process, and uneven temperature can help here, 
+ or hinder there. 
+ I think that understanding shrinkage and its magnitude under various conditions 
+ in both the glass and the mold material is an important,
+  and perhaps sometimes overlooked, part of learning this skill.
+
+ntirely correct. And now a test question. 
+ 
+ Which would take the longest to equalize the temperature? 
+ 
+ A. Starting at 1500F coming down to 1250F and holding 
+ until the kiln, the glass, or whatever, was equalized at 1250F. 
+ 
+ B. Or starting at 500F and coming down to 250F and under the same circumstances,
+  holding until equalized at 250F. 
+ 
+ The correct answer is . . . . . . . . . B! 
+ 
+ Therefore an annealing schedule that does its job at 960F will work wonders 
+ at 1250F, since a heated kiln, glass, whatever, 
+ will equalize faster at the higher temp. 
+ 
+ So for all those who think they are experiencing "uneven heating and cooling" 
+ problems, just apply your annealing schedule to the glass at some temp above its
+  softening point, and voila! 
+  No "uneven heating and cooling" problems! 
+  Unless what you are experiencing is not "uneven heating and cooling" 
+  but another misdiagnosed casting problem. 
+ 
+
+
+
+_________________
+- Rick 

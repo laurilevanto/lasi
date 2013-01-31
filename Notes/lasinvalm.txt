@@ -1,0 +1,61 @@
+Prosessiteknookka lasin valmistus
+http://prosessitekniikka.kpedu.fi/doc-html/lasi.html
+
+Lasin valmistus
+ 
+Lasiksi sanotaan kaikkia sellaisia aineita, jotka on saatu eräitä epäorgaanisia aineita - lähinnä silikaatteja tai niiden seoksia - sulattamalla ja antamalla näin saadun sulatteen jäähtyä. Tällöin saadaan massa, jossa sulate ei ole palautunut alkuperäiseen kiteiseen muotoon, vaan jäänyt jähmeän, hauraan, useimmiten läpinäkyvän liuoksen asteelle. Kun sula lasimassa jäähtyy, se tietyllä lämpötila-alueella sitkistyy niin, että atomien asettuminen kiteille ominaiseen säännölliseen järjestykseen estyy. Jähmettynyt massa jää lasitilaan.
+ 
+ 
+Lasin raaka-aineet
+Kvartsihiekka
+Lasin pääraaka-aine on puhdas ja seulottu kvartsihiekka, joka on jokseenkin yksinomaan piidioksidia. Useimmissa lasilajeissa piidioksidin osuus on 40 - 80 %.
+ 
+Sooda
+Lasin valmistukseen tarvittavista sulatuslämpötilaa alentavista sulatusaineista tärkein on kalsinoitu sooda, Na2CO3 (Na2O).
+ 
+ 
+Kalkkikivi
+Lasin kemiallista kestävyyttä lisää kalkkikivi eli kalsiumkarbonaatti CaCO3 (CaO).
+ 
+Kalkkikiven ohella käytetään useissa lasilajeissa kalsiummagnesiumkarbonaattia eli dolomiittia CaCO3  MgCO3 (CaO ja MgO).
+ 
+Maasälvästä saadaan alumiinitrioksidin Al2O3 ohella joukko muitakin komponentteja (Na2O, K2O ja SiO2).
+ 
+Lyijykristallilasissa on kaliumoksidi CaO korvattu lyijyoksidilla. Raaka-aineena käytetään lyijymönjää (Pb3O4).
+ 
+ 
+Siru
+Lasin valmistuksessa syntyy aina hylkylasia, joka murskataan ja lisätään raaka-aineseokseen. Sirun käyttö on taloudellisesti kannattavaa, mutta sen tärkein tehtävä on kuitenkin nopeuttaa raaka-aineen sulamista.
+ 
+Varsinaisten raaka-aineiden lisäksi lasin valmistuksessa tarvitaan vielä eräitä lisäaineita, joita raaka-aineisiin verrattuna käytetään yleensä pieniä määriä. Tällaisia lisäaineita ovat selkeyttämisaineet, värinpoistoaineet, samennusaineet ja väriaineet.
+ 
+ 
+Lasin päätyypit
+ 
+Lasin kemialliset ja fysikaaliset ominaisuudet samoin kuin muovausominaisuudet riippuvat lasimassan koostumuksesta.
+ 
+ 
+Alkalikalkkilasi
+Yleisin lasilaji on natronkalkkilasi eli soodalasi. Sen pääkomponentit ovat piidioksidi (70 - 75 %), natriumoksidi (12 - 17 %) ja kalsiumoksidi (7 - 14 %), joiden lisäksi se yleensä sisältää pieniä määriä kalium-, magnesium- ja alumiinioksideja. Natronkalkkilasista valmistetaan mm. tasolasia, talouslasia ja pakkauslasia.
+ 
+ 
+Lyijylasi
+Lyijylasin eli lyijykristallilasin pääraaka-aineet ovat kvartsihiekka, kaliumkarbonaatti ja lyijyoksidi.
+ 
+ 
+Boorisilikaattilasi
+Boorisilikaattilasissa osa piidioksidia on korvattu alumiini- ja boorioksideilla. Koostumuksen johdosta boorisilikaattilasi kestää erinomaisesti lämpötilan vaihteluita ja on lisäksi sekä mekaanisesti että kemiallisesti kestävää. Yleisesti tunnettuja boorisilikaattilaseja ovat Jena- ja Pyrex-lasit.
+ 
+ 
+Lasin valmistus
+ 
+Tuotantoprosessin mukaan lasin valmistus jakaantuu neljään osaan, jotka ovat  
+talous- ja taidelasituotanto
+pakkauslasituotanto
+tasolasituotanto
+lasikuitutuotanto
+Valmistus on nykyään varsin pitkälle automatisoitu lukuunottamatta talous- ja taidelasituotantoa, jossa menetelmät ovat vielä perinteisesti melko käsityövaltaisia.
+* * '
+Float-lasi
+Float-menetelmää käytettäessä sula lasimassa valutetaan ilmatiiviisti suljettuun tilaan sulan tinan päälle. Jäähdytystunnelissa kuuma lasinauha jäähdytetään hitaasti jännitteettömäksi n. 60 ºC:n leikkuulämpötilaan. Jäähdytyksen loppuvaiheessa lasi pestään, tarkastetaan optisesti ja katkotaan sitten halutun kokoisiksi lasilevyiksi.
+ Float-lasin valmistus.jpg (363485 bytes)

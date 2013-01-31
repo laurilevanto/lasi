@@ -1,0 +1,42 @@
+http://norssi.oulu.fi/projektit/6awww/heikkiva/Sanasel.htm
+
+Alkalioksidi:                   Alkalimetalleista syntyvä oksidityyppi, jota käytetään alkalikalkkilasissa. 
+Alumiinioksidi:                Puhtaana väritön emäksinen aine. Liukenee veteen ja happoihin. Voi olla myös vesipitoista. 
+Amorfinen:                     Aine, jonka atomirakenne ei ole järjestäytynyt. Amorfinen aine ei ole kiteinen. 
+Booraksi:                        Eräs booriaineiden yhdiste. 
+Dolomiitti:                       Ruskehtava tai kellertävä karbonaattimineraali. 
+Driivaus:                         Lasin koristelutyyli. 
+Epäorgaaninen:               Elottomasta luonnosta peräisin oleva aine tai kem. rakenteelta sellaisen kaltainen. 
+Etsaus:                            Taidegrafiikan syväpainomenetelmä 
+Fluorihappo:                    Lasia syövyttävä aine 
+Fluorisälpä:                      Aine, joka muuttaa lasin luutuhkan ja kryoliitin kanssa maitolasiksi. 
+Kalikalkkilasi:                   Lasin perus tyyppi, jossa on käytetty potaskaa soodan asemasta. 
+Kalkkikivi:                        Sedimenttinen tai metamorfinen kivilaji, jota käytetään kalikalkkilasissa. 
+Kemiallinen:                      Kemiaan kuuluva tai siihen perustuva. 
+Kiteytynyt:                        Atomien, ionien ja molekyylien muodostama kiinteä aine. 
+Kobolttioksidi:                  Antaa lasille syvän sinisen värin. 
+Kryoliitti:                           Muuttaa lasin fluorisälvän ja luutuhkan kanssa maitolasiksi. 
+Kvartsihiekka:                  Lasin perusraaka- aine. 
+Luutuhka:                          Muuttaa lasin fluorisälvän ja kryoliitin kanssa maitolasiksi 
+Lyijymönjä:                       Kristallissa käytetty raaka- aine, jota on n. 30 %. 
+Lyijyoksidi:                       Mönjää. 
+Lämpölaajenemiskerroin:  Tärkeä ominaisuus lasin teknologiselta kannalta, kun lasilaatuja sulatetaan yhteen metallien kanssa. 
+Maasälpä:                         Silikaatti mineraali. 
+Maitolasi:                          Läpikuultava- tai täysin läpinäkymätön lasityyppi. Maitomaisen värityksen lasille antavat kryoliitti, fluorisälpä ja luutuhka. 
+Mönjä:                               Lyijyoksidi. 
+Natriumoksidi:                    Boorisilikaatti lasissa käytetty oksidityyppi 
+Optinen lasi:                       Lääketieteessä käytetty lasityyppi. Optisessa lasissa ei ole rautaa, joka on epäpuh-taus. 
+Panssarilasi:                        Lasia, jonka väliin on valettu rautaverkko tai muovikalvo 
+Piioksidi:                             Piistä muotoutunut oksidityyppi. 
+Potaska:                              Kalsiumkarbonaatti 
+Rihlauskoristelu:                   Muodostetaan lasinpintaan heikko viivakuvio: Pystysuora, spiraalimainen ruudulli-nen tai          aaltomainen. 
+Seleeni:                                Antaa lasille rubiininpunaisen värin 
+Sinkkioksidi:                        Sinkistä muodostuva oksidityyppi 
+Siru:                                     Jätelasia, jota lisätään uuteen lasiin sitä valmistettaessa. 
+Sooda:                                 Natriumkarbonaatti 
+Syövyttää:                            Kiinteän kappaleen osittain liuottaminen kemiallisesti syövyttävässä aineessa 
+Tasolasi:                               Vetämällä valmistettu lasilevy 
+Teoria:                                  Yleisen tiedon järjestelmällinen esitys 
+Varmuuslasi:                          Karkaistua tai laminoitua lasia. 
+Viskositeetti:                          Sitko/kovuus 
+Vesilasi:                                 Kemiallisesti kestämätöntä lasia.

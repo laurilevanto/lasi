@@ -1,0 +1,15 @@
+ </td>
+ 
+    <a  href=./2-kuvat/incomp-flo-2.jpg height="800">
+     <img src=./2-kuvat/th-incomp-flo-2.jpg height="150">
+    <br>yhteensopimattomuus<br>
+    float-lasissa </a>
+    &nbsp;<br>
+    &nbsp;<br>
+    &nbsp;<br>
+    &nbsp;<br>
+   <a  href=./2-kuvat/incomp-color-2.jpg height="800">
+     <img src=./2-kuvat/th-incomp-color-2.jpg height="150">
+    <br>yhteensopimattomuus<br>
+    ikkunalasissa </a>
+  </td>

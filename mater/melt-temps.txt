@@ -1,0 +1,33 @@
+Elements
+Symbol
+Melting Point Celsius
+Melting Point Fahrenheit
+Aluminum  Al  659  1218
+  Brass (85 Cu 15 Zn)  Cu+Zn  900-940  1652-1724
+  Bronze (90 Cu 10 Sn)  Cu+Sn  850-1000  1562-832
+  Cast Iron  C+Si+Mn+Fe  1260  2300
+  Carbon  C  3600  6512
+  Chromium  Cr  1615  3034
+  Copper  Cu  1083  1981
+  Gold  Au  1063  1946
+  Hydrogen  H  -259  -434.2
+  Inconel  Ni+Cr+Fe  1393  2540
+  Iron  Fe  1530  2786
+  Lead  Pb  327  621
+  Magnesium  Mg  670  1240
+  Manganese  Mn  1260  2300
+  Monel  Ni+Cu+Si  1301  2400
+  Nickel  Ni  1452  2646
+  Phosphorous  P  44  111
+  Silicon  Si  1420  2588
+  Silver  Ag  961  1762
+  Stainless Steel  Cr+Ni+Mn+C  1363  2550
+  Steel-High Carbon  Cr+Ni+Mn+C  1353  2500
+  Medium Carbon  Cr+Ni+Mn+C  1427  2600
+  Low Carbon  Cr+Ni+Mn+C  1464  2700
+  Tin  Sn  232  450
+  Titanium  Ti  1795  3263
+  Tungsten  W  3000  5432
+  Zinc  Zn  419  786
+  
+  Source:http://www.muggyweld.com/melting.html

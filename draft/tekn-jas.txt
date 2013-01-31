@@ -1,0 +1,19 @@
+Tekniikat
+	Perustekniikat
+		Turvallisuus * *
+		lasinleikkaus *
+		Fuusaus * *
+		Slumppaus * *
+		Liekkikiillotus *
+		Valu *
+		Lampputyö
+		Muottien valmistus
+		Etsaus, hiekkapuhallus *
+	Sovellukset
+		Liuskatekniikka *
+		Kudonta * *
+		Maalaukselliset tekniikat
+		Reliefivalu * *
+		Pintavärjäys, emalit
+		Ruukku- ja tasosulatus *
+		Puristusfuusaus

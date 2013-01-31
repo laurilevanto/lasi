@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /Notes/
+User-agent: *
+Disallow: /Varia/
+User-agent: *
+Disallow: /draft/
+user-agent: *
+Disallow:/lasisivut/
