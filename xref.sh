@@ -11,18 +11,18 @@ grep -Ri 'a href' * |
 echo "Cross reference list of `pwd` " > xref.txt
 date >> xref.txt
 
-
 for F in `cat /tmp/xref.1 | 
           perl -pe s/:.*$// | 
           cut -d' ' -f1 | 
           sort -u | 
           grep -v \~`
 do
-          ## grep '.php' | 
+    # Old code, to get all links listed
     #echo 
     #echo
     #echo "Page $F contains these links:"
     #egrep "^$F" /tmp/xref.1 | cut -d ' ' -f2
+
     echo  >> xref.txt
     echo "pages that link to $F" >> xref.txt
     grep $F /tmp/xref.1 | 
