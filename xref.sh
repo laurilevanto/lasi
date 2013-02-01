@@ -32,5 +32,3 @@ do
 done
 
 echo "List created in xref.txt"
-
-
