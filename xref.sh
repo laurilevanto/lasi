@@ -33,10 +33,4 @@ done
 
 echo "List created in xref.txt"
 
-#for F in `find . -print | grep -v '~'`
-#do
-#  echo
-#  echo Sivu $F
-#  
-#done
 
