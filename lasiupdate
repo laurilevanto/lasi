@@ -1,0 +1,30 @@
+#!/bin/bash
+# Commit changes to lasi.local and push to locatelli
+
+cd /home/lauri/lasi.local
+echo
+echo -n "What have you done? "
+read MESSAGE
+#echo
+#echo "Pulling..."
+# git pull --no-edit
+echo
+echo "Committing..."
+git commit -a -m "$MESSAGE"   || exit 1
+echo
+echo "Pushing..."
+git push
+
+echo -n "Update the web site (Y/N)? "
+read UPD
+if [[ $UPD =~ ^[Yy]$ ]]
+then
+    echo
+    echo "Updating the web site..."
+    ssh lsd.dk "cd /home/lauri/html/lasi; git pull" || exit 1
+fi
+
+echo
+echo OK
+echo
+
