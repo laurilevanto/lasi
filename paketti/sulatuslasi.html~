@@ -1,46 +1,57 @@
-<HTML>
- <table width="600" align="center"  border>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
 
-<td>
+  <TITLE>Lasin uunisulatus</title>
+ </head>
+ 	<BODY bgcolor="FFFFFF" text="000000" link="0000FF" alink="FF0000" vlink="800080">
+<p><i>Lauri Levanto</i> <b>Lasin uunisulatus</b> Sulatuslasit
 
-  <h2>Fusing glass </h2>
+
+
+    </td>  
+ </tr>
+</table>
+   </td>
+ 
+ <!---END vasen--->
+ 
+<!---TEKSTI --->
+  
+<td bgcolor="#ffffff"  >
+    <HTML>
+ 
+<td>  
+  <h2>Sulatuslasit </h2>
+  Suurin osa taidelasista ei ole tarkoitettu yhteensulatukseen. Valmistaja on vain   
+  hakenut hyviä värejä, ajattelematta miten se muuttaa lasin olemusta kuumassa.
   <p>
-  De flästa konstglas är inte menade till sammansmältning. 
-  De är för tiffany- och blyteknik där man arbetar med kallt glas.
-  Tillvärkaren har sökt efter fina färger och nyancer utan att tänka hur glaset beter sig i hettan.
-  </p>
+  Halpa <a href="../mater/ikkunalasi.php"> <i>Ikkunalasi </i></a> tuntuu houkuttelevalta. 
+  Se tuo kuitenkin mukanaan niin paljon ongelmia että en oikein laske sitä sulatuslasiksi,
+   ainakaan aloittelijalle. <i>Kierrätyslasin</i> käyttö on valitettavasti vielä vaativampaa
   <p>
-  <b>Fönsterglaset </b>är rimligt i prisen och därför lockande.
-  Den medför dock så många problemer att 
-  jag vill inte recommendera, åtminstone inte för en nybörjare.
-  Man måste känna dess bekränsningar.
- </p>
- <p>
-<b> Återvändnigsglass</b> är tyvärr ännu mera krävande.
-  </p>
-  <p>
-  Åtminstone nedan listade fabrikerna gör specielt fusingglas. De
-  tar hand om att deras producter pasar ihop <i>med deras egna varianter.</i>
-  Man säger att de är kompatibla.
+  Ainakin alla luetellut valmistajat tekevät nimenomaan sulatuslasia ja 
+  huolehtivat <i>omien lasiensa keskinäisestä </i> yhteensopivuudesta.
   
   <p>
-  <b>Kompatibilititet</b> betyder att olika färger har utvigdandet och vidkositet 
-  pasat ihop så att med rätt kylning förekommen ingen stress mellan glasbitar.
+  <b>Yhteensopivuus</b> tarkoittaa sitä, että eri lasien lämpölaajeneminen ja 
+  viskositeetti - juoksevuus kuumana -   on sovitettu niin että oikein 
+  jäähdytettynä lasien rajalle ei synny jännityksiä. 
+   
 
-    <p> <b>Bullseye</b> 
-    är det äldsta fabrik som specialiserade till fusing glas.
-    I sistakatalog hadde de över 600 varianter.
-     Allt Bullseye F-märk glas hat testasföt kompabilitetet.
-     Dom sälger också  för tiffany bruk litet billigare glas , 
-     .som inte har passerat deras test. Nordiskaimpoetörer brukar
-     begränsa sortimentet till fusible glas.
-    
-    Useimmat suomalasiet lasiliikkeet myyvätkin 
-    vain testattua Bullseyeta. <br>
-    Bullseye glass skivor är gjord med att manuelt kavla. 
-    Därför har den ganska ojämn yta somkan vara svår att skära.
-    I klart glas har BE också en billigare Tekta serie, som är maskinellt gjord.
-    
+    <p> <b>Bullseye</b> on vanhin sulatuslasiin erikoistunut tehdas. 
+    Värivalikoima on mahtava ja kaikki <b>f-merkitty</b> lasi on testattu 
+    yhteensopivuudeltaan.  <i>Bullseye myy tiffany-käyttöön myös lasia joka ei ole
+    läpäissyt heidän yhteensopivuustestiään</i>. Toiset ovat raportoineet onistuneensa
+    myös sen fuusauksessa. Hintaero on kuitenkin niin pieni ettei riskiä kannata ottaa.
+    Osta vain F-merkittyä.
+    Useimmat suomalasiet lasiliikkeet myyvätkin vain testattua Bullseyeta. <br>
+    Bullseyen laajenemiskerroin on n.90. 
+    Kaikkea Bullseyen lasia saa levyinä, tankoina, puikkoina ja murskeena. 
+    Bullseyen tasolasi on tehty käsin mankeloimalla. Siinä on aika epätasainen pinta,
+    jota on joskus vaikea leikata. BE:llä on myös Tekta-sarja kirkasta lasia. 
+    Se on koneella vedettyä, siinä ei ole tinapuolta. Tekta on halvempaa ja
+    sileämpää. Toistaiseksi sitä on saanut vain kirkkaana.
     <p><b>Gaffer</b> on uusiseelantilainen lasitehdas, joka valmistaa 
     valutöihin erittäin sopivaa kirkasta ja värillistä transparenttia 
     lyijykristallia. Lyijykristalli on voimakkaasti valoa taittavaa, painavaa
@@ -149,3 +160,45 @@ Ole tarkkana kumpaa Uroborosta ostat!</li>
 
 
 
+</td>
+
+<!--- END TEKSTI --->
+
+   <!--- KUVAT --->
+   <td>
+<table width="200" >
+  <td width="200" > 
+&nbsp;
+</td>
+
+ </table>
+ <!--- END KUVAT --->  
+ </table>
+   <!--- ALALINKIT --->
+
+ <html>
+<table border bgcolor="#ffffff" align=center width=80%>
+<td>
+<font size="-2">Copyright 2007,2012 Lauri Levanto &nbsp; <br>
+;URL <a href="http://lauri.lsd.dk/lasi/copyright.html"> http://lauri.lsd.dk/lasi/Copyright</a>
+ </font>
+</td>
+</table>
+</html>
+
+ <table  cols=2 width=100% bgcolor=e0ffe0>
+<tr>
+  <td  >
+  Edellinen sivu    <A href="leikkaaminen2.php"> Leikkaaminen2 </A> <br>
+    takaisin <A href="../index.php"> alkusivulle</A> 
+    </td>
+    <td>
+    <p align=right> Jatka ->
+   <A href="yhteensopivuus1.php"> Yhteensopivuus</A>
+  </td>
+  </tr>
+</table>
+<!--- END-ALALINKIT --->
+
+</body>
+</html>

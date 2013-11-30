@@ -1,72 +1,110 @@
-<HTML>
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
-  <meta name="description" content="inledning i glasfusing">
-  <TITLE>Reseguide till glasfusings värld</title>
- </head>
-	<BODY bgcolor="ffffff" text="000000" link="0000FF" alink=
-"FF0000" vlink="800080">
-   
-<table cols=3>
-<!--- Left column  --->
-<td bgcolor="#e0ffe0" width="200"
 
-
-  <?php include "./navi/navi-sv.html"; ?> <br>
-  &nbsp;&nbsp;&nbsp; <br>
-    <?php include "./navi-del1.html"; ?>
-</td>
-<!---  Text  --->
-<td bgcolor="#ffffff">
-    <?php include "./lukijalle-sv.html"; ?>
-
-    <!--- oikealle KUVAT --->
-    <td>
-<table>
-  <td width="200" bgcolor="#e0ffe0" valign=top rowspan=2> 
-
- <a href="../pics/tutustu-pics/ristikko1.jpg"> 
- <img src="../pics/tutustu-pics/th-ristikko1.jpg" width="200"> 
- <br>En slumpad fat</img> </a>
- <br>
-  <a href="../pics/tutustu-pics/kellokukat.jpg"> 
- <img src="../pics/tutustu-pics/kellokukatth.jpg" width="200"> 
- <br>Små vas  gjord med ringform</img> </a>
- <br>
-   <a href="../pics/jama-pics/evan_koru2.jpg"> 
- <img src="../pics/jama-pics/evan_koru-th.jpg" width="200"> 
- <br>smycke </img> </a>
- <br>
-
- <a href="../pics/tutustu-pics/madonna.jpg"> 
- <img src="../pics/tutustu-pics/madonnath.jpg" width="200"> 
- <br>lGlastavla</img> </a>
- <br>
-
-
-  <a href="../pics/tutustu-pics/waterlilies.jpg"> 
- <img src="../pics/tutustu-pics/waterliliesth.jpg" width="200"> 
- <br>Värmeljus av knust glas</img> </a>
- <br>
-  <br>
-  <a href="../pics/tutustu-pics/lisko.jpg"> 
- <img src="../pics/tutustu-pics/liskoth.jpg" width="200"> 
- <br>
- Skultur gjuten i glas</img> </a>
-  </td>
- <!--- END KUVAT --->  
- </table>
- </td>
-
-
+<html>
+<table  COLS=3 WIDTH="100%"  >
+<td>
+<!---vasen palsta--->
+<table width="30%">
+ <tr>
+   <td> 
+            <?php include "./menu1-sv.html"; ?>   
+    </td>  
+ </tr>
+ <tr>
+ 
+ 
  
 </table>
+   </td>
+ 
+ <!---END vasen--->
+ <td>
+<h2>Till svenskspråkiga läsarna</h2>
 <p>
-<!--- ALALINKIT --->
+När ja 2001 började syssla med glas, 
+fanns det bara en bok om ämnet på finska.
+Den hade varit utsåld för decennier, 
+och den utlovade andra editionen kom 
+aldrig ut. Jag läste engelska källor och gjorde anteckningar.
 
+</p>
+<p>
+Med tiden har jag märkt att svenskspråkiga 
+har det inte heller bättre.
+Danskarna har ett större urval av böcker.
+Jag har märkt att ålänningar och några Sverigebor
+försöker läsa mina finska sidor.
+Därför hade jag lust att försöka få några sidor på svenska.
+</p>
+<p>
+Dessa sidor fick sin början av behovet  
+att organisera mina egna antäckningar.
+ Därför  har materialet växt i helt tillfällig ordning.
+  Nya sidor dyker opp bland de gamla. 
+   Även de gamla sidorna får tilläg och förbättringar. 
+   Större förändringar  berättar jag i "vad är nytt"  avsnitt.
+ Original texten är på finska. 
+ Svenska sidor bygger jag på färdigt finsk material. 
+ Den fiska texten har kommit fram under åtta år. 
+ Den sveska versionen kommer inte heller att bli färdig över natten.
+ <br>
+ Tyvärr har varken Google translator eller jag 
+ svenskan som modersmål.
+ Om ni möter något svårförståeligt, tveka  inte att fråga.
+</p>
+<p>
+<h3>DEL 1. inlednings tour</h3>
+
+
+Denna del är bäst att första gång läsa genom   i ordningsföld. 
+Nere i högra hörnet av sidan är därför en länk till nästa sida. 
+Med första genomläsning hoppa över eventuella "läs mer" länkar.
+Efter det första genomgående hjälper dessa länkar 
+till djupare förståelse. 
+Nu i den första versionen "läs mera" länkarna kommer 
+at peka på finska sidor därför att dessa sidor inte ännu är oversättade.
+Ni som är tvåsprokiga kan använda dem redan.
+</p>
+<p>
+<h3>Del 2. handbok</h3>
+
+Den andra delen innehåller korta kapitel som kan läsas efter behov. 
+Länken "navigering" öppnar en innehållsförteckning 
+där man kan klicka den avsnitt som intreserar.
+I avdelning Bilagor finns nyttiga tabeller. 
+Där är också en omfattande ordbok om engelska termer  
+samt en finsk ordbok. 
+Den kan vara nyttig om du vill läsa någonting med Google translator.
+</p>
+<p>
+Under rubriken"Tips" finns en fråga och svar section (på finska) .
+Svenska frågor är välkomna, då får du svaret också på svenska. 
+Email adressen finns på framsidan.
+<p>
+Bilderna i högra kanten av  sidor är små. 
+Om du klickar i bilden ser du den större. 
+Man kommer tillbaka från bilden med att klicka
+tillbaka -pilen. 
+Vanligen finns den längst till vänster på den översta knapp-raden.
+<br>
+<img src="../arrow2.png" alt="" ></img>
+</p>
+<p>
+<table  cols=2 width=100% bgcolor=e0ffe0>
 </td>
-<!--- END-ALALINKIT --->
+  <td  >
+    <p align=left>
+    <a href="../index-sv.php"><- Framsidan </a> <br>
+   
+  </td>
+  <td>
+  <strong>Copyright Lauri Levanto  2013 </strong><br>
+  URL http://lauri.lsd.dk/lasi/index-sv.html
+  </td>
+  <td align=right>
+Nästa sidan är<br>
+<a href="./tervetuloa-sv.php">  Att komma igång</a>
+  </td>
 
-</body>
+
+</table>
 </html>
-

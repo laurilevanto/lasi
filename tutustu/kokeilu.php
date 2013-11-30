@@ -34,7 +34,7 @@
 
    <!--- KUVAT --->
  <td bgcolor="#c0ffco"  >
-    &nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  </td>
  <!--- END KUVAT --->  
 </tr>

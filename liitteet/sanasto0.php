@@ -35,6 +35,7 @@
       <td> As Fast as possible. uunin kuumennus täysillä tai vastaavasti jäähdytys 
       niin nopeasti kuin uuni jäähtyy. Käytetään myös ilmaisia SKIP.
       </td>
+      <td>&nbsp;</td>
         <td>AFAP <br>
         SKIP</td>  
   </tr>
@@ -42,12 +43,14 @@
     <td> Aihio</td>
       <td> Puolivalmiste, esimerkiksi fuusattu levy
       joka odottaa slumppausta.</td>
+       <td>&nbsp;</td>
         <td>Blank</td>  
   </tr>
   <tr>
     <td> Allefuusaus</td>
     <td> Kun paloja fuusataan yhtenäisen päälilasin alle.  Katso 
        <a href="../tekniikat/perusfuusaus.php"> perusfuusaus</a></td>
+          <td>&nbsp;</td>
           <td>fusing under</td>  
   </tr>
 
@@ -55,23 +58,27 @@
      <td>Aluminioksidi</td>
         <td> Aluminioksidi, Al2O3 on kovaa ainetta jota käytetään hiekkapuhalluksessa ja hiomakivissä.
         On myös hyvä erotusaine estämään lasin tarttumista. Tärkeä ainesosa monissa muottiseoksissa.</td>
+           <td>&nbsp;</td>
            <td>Alumina</td>
   </tr>
   <tr>
      <td> Anhydridi</td>
      <td>Kiteinen aine, josta kidevesi on poistettu tavallisesti kuumentamalla
      </td>
+     <td>&nbsp;</td>
         <td>Anhydrate</td>
    </tr>
    <tr>
      <td>  Amorfinen</td>
      <td> Kiteytymätön kiinteä aine, kuten lasi, monet muovit ja hartsit.</td>
+     <td>&nbsp;</td>
      <td>Amorphic</td>   
    </tr>
       <tr>
      <td>  Antiikkilasi</td>
      <td> Valssaamalla tehty lsi, joka ei ole optisesti täysin kirkas 
      vaan pinnassa on epätasaisuutta.ja lasin sisällä usein kuplia. Nimitys tulee ulkonäöstä, ei lsin iästä.</td>
+     <td>&nbsp;</td>
      <td>Antique glass</td>   
    </tr>
    <tr>
@@ -79,12 +86,14 @@
       <td> Käsitöistä lainattu termi. Lasin yhteydessä se tarkoittaa mosaiikin
       tapaista kylmää työtapaa
       joka on koottu liimaamalla palat pohjalasille ja täyttämälla raot kitillä.</td>
+      <td>&nbsp;</td>
       <td> Application</td>   
    </tr>
      <tr>
     <td>Artista</td>
       <td>Eräs <a href="../paketti/sulatuslasi.php"> Schott'in valmistama 
       sulatuslasilaatu</a> </td>
+        <td>&nbsp;</td>
         <td> GNA engl. Artista</td>
   </tr>
   <tr>
@@ -92,26 +101,33 @@
     <td> Pihdit, joilla puristamalla saadaan leikkausviiru aukeamaan <br>
     Lue lisää <a href="../tarv/pihdit.php">Välineet ja tarvikkeet</a></td>
     <td>&nbsp;</td>
+    <td>&nbsp;</td>
   </tr>
    <tr>
       <td>Aventuriini</td>
          <td> Läpikuultava lasi jossa on kimaltelevia kulta-, kupari- tai kromihiukkasia.
         Nimi tulee aventuriini mineraalista, joka on kvartsia jossa on kiillesulkeumia.</td>
+           <td>&nbsp;</td>
            <td>Aventurine</td></tr>
 <tr>
 <td><a NAME="B"></a><font color="#FF0000"><font size=+2>B</font></font></td>
 <tr>
-    <td>BE</td><td>Lyhennys sanalle Bullseye.</td><td>Bullseye</td>
+    <td>BE</td>
+    <td>Lyhennys sanalle Bullseye.</td>
+    <td>&nbsp;</td>
+    <td>Bullseye</td>
   </tr>
     <tr>
     <td> Bentoniitti</td>
       <td> Savilaatu jolla on suuri kyky sitoa vettä.
       Käytetään hiekkavalussa hiekan sitomiseen.</td>
+        <td>&nbsp;</td>
         <td> Bentonite</td>  
   </tr>  
   <tr>
    <td>  Billet </td>
    <td>tiilenmuotoinen lasipalikka, joka on tarkoitettu sulatettavaksi valumateriaaliksi
+    <td>&nbsp;</td>
     <td> Billet</td>
    </tr>
 <tr>
@@ -119,22 +135,27 @@
     <td>Kirjanmerkki, englanninkielisissä selaimissa vastaa suomenkielisten
     Suosikit-valintaa    </td>
     <td>&nbsp;</td>
+    <td>&nbsp;</td>
 </tr>
 <tr>
   <td> boraksi</td> 
     <td> boraksia käytetään lasitteena (overspray) <br>
     Lue lisää <a href="../mater/overspray.php"> Lasite </a></td>
+    <td>&nbsp;</td>
     <td> Borax</td>
 </tr>
 <tr>
   <td>borosilikaattilasi</td>
   <td> Kuumuutta hyvinkestävä lasilaatu, josta tehdään talousastioita. Kauppanimiä Pyrex, Jena</td>
+  <td>&nbsp;</td>
   <td>Borosilicate Glass</td>
 </tr>
 
 <tr>
     <td>Bullseye</td><td> Eräs 
-    <a href="../paketti/sulatuslasi.php" >sulatuslasilaatu</a></td><td>Bullseye</td>
+    <a href="../paketti/sulatuslasi.php" >sulatuslasilaatu</a></td>
+    <td>&nbsp;</td>
+    <td>Bullseye</td>
 <td></td><td></td>
 </tr>
 <tr>
@@ -145,6 +166,7 @@
   
   
   </td>
+  <td>&nbsp;</td>
   <td>Bohemian Crystal</td>
 </tr>
 <tr>
@@ -155,6 +177,7 @@
     <td>Ceriumoksidi</td>
       <td>Metallioksidi, jota hyvin hienona jauheena käytetään lasin kiilloitukseen  </td>
     </td> 
+    <td>&nbsp;</td>
       <td> Cerium oxide</td>
  </tr>
 
@@ -166,11 +189,13 @@
 <tr>
   <td>Dalle</td>
   <td> tiilenmuotoinen paksu lasikappale. Käytetään usein valutöiden materiaalina</td>
+  <td>&nbsp;</td>
   <td> Billet, Dalle</td>
 </tr>
 <tr>
   <td>devitrifioitua</td>
     <td>Kiteiden muodostumista lasissa, jolloin pintaosa menettää nesteen ominaisuutensa ja muuttuu sameaksi</td>
+    <td>&nbsp;</td>
     <td>s. devitrification tai devit<br>
     v. devitrifify</td>
 </tr>
@@ -179,6 +204,7 @@
     <td> dikroidinen lasi, jonka pinnoite jakaa valon kahtia
     niin että heijastuva valo saa värin ja läpikulkeva valo sen vastavärin.
     Suosittu lasi koruissa</td>
+      <td>&nbsp;</td>
       <td> Dicroidic</td>
 </tr>
 <tr>
@@ -193,6 +219,7 @@
   Emalia voidaan maalata, silkkipainaa tai ruiskuttaa pintaan.
   Polttolämpö yleensä alempi kuin fuusauksessa.
   </td>
+  <td>Emalj</td>
   <td> Enamel</td>
 </tr>
 <tr>
@@ -203,7 +230,7 @@
     Myös <a href="../uuni/kuitupap.php"> kuitupaperia </a>
     voidaan käyttää erotusaineena <br>
     Kipsiesineiden valussakäytetään rasvaa ja/tai saippuaa erotusaineena.</td>
-    
+    <td>Separator ämne</td>
      <td> Separator <br>
      Kiln Wash <br>
      engl. Bat Wash</td>
@@ -213,6 +240,7 @@
     <td> erittäin myrkylline ammoniumbifluoridin seos, joka on sakeutettu
     helpommin käsiteltäväksi. Käytetään kuvioiden syövyttämiseen lasin pintaan.
     Sileässä lasissa etsattu alue erottuu himmenä ja valkoisena valoa vasten</td>
+      <td>&nbsp;</td>
       <td> Etching Cream</td>
 </tr>
 <tr>
@@ -221,6 +249,7 @@
 </tr>
  <td> Fasettihiottu</td>
  <td> Lasi, jonka reunaan on hiottu ja kiillotettu näkyvä viiste</td>
+ <td>&nbsp;</td>
  <td> Facet grinding</td>
 <tr>
 <td>Float lasi</td>
@@ -229,6 +258,7 @@
   on erittäin sileätä ja tasalaatuista 
   <br>
   Lue  <a href="../mater/ikkunalasi.php">lisää </a> </td>
+    <td>&nbsp;</td>
     <td>Float Glass
     <br>
     Window glass</td>
@@ -240,22 +270,26 @@
     jota voidaan käyttää tasoittamaan ja kiillottamaan pintaa.
     Flussi voidaan ruiskuttaa tai maalata pehmeällä siveltimellä.<br>
     Lue lisää <a href="../mater/overspray.php"> Lasite </a></td>
+    <td>&nbsp;</td>
     <td> Flux, <br> Overspray <br> Overglaze 
     </td>
   </tr>
   <td>Foliointi</td>
 <td>leikatun lasinpalan kehystäminen folioteipillä ennen kiinnijuottamista 
 (tiffanytekniikka)</td>
+<td>&nbsp;</td>
 <td>Foiling</td>
 </tr>
   <tr>
     <td>Fritti</td>
     <td> katso <a href="../liitteet/sanasto1.php#lasimurska"> lasimurska</a></td>  
+  <td>Fritt, krossad glas</td>
   </tr>
   <tr>
     <td> Frittimaalaus</td>
     <td> työtapa jossa muodostetaan (tavallisesti esittävä) kuva sulattamalla
     erivärisiä frittejä kuvioiden muotoon</td>
+    <td>&nbsp;</td>
     <td> Frit painting</td>  
   </tr>
   <tr>
@@ -263,6 +297,7 @@
       <td>lasin yhteensulattaminen uunissa. 
       Lue <a href="../paketti/fuusaus1.php"> lisää </a> <br>
       ja <a href="../tekniikat/perusfuusaus.php"> täältä </a> </td>
+         <td>&nbsp;</td>
          <td>v. fusing<br>
 	     s. fusion<br>
 	     a. fused</td>	
@@ -278,6 +313,7 @@
   <td> Hienoksi jauhettua värjättyä kiillettä, jota käytetään antamaan pinnalle 
 väriä ja välkettä. Se ei varsinaisesti fuusaudu lasiin, mutta saadaan tarttumaan 
 kun pohjalasi kuumennetaan kyllin pehmeäksi.</td>
+    <td>&nbsp;</td>
     <td> Mica</td>
 </tr>
 <tr>
@@ -285,6 +321,7 @@ kun pohjalasi kuumennetaan kyllin pehmeäksi.</td>
   <td> eli seulaluku on ilmaisu jauheiden, erityisesti hioma-aineiden
    karkeudelle. Luku määräytyy sen mukaan montako lankaa tuumalla on seulassa josta aine
    ei enää mene läpi. Suuri grit-luku tarkoittaa siis hionojakeisempaa ainetta.</td>
+   <td>&nbsp;</td>
    <td>Grit</td>
 </tr>
 <tr>
@@ -295,10 +332,13 @@ kun pohjalasi kuumennetaan kyllin pehmeäksi.</td>
 <tr>
   <td> Halkaisupihdit</td>
   <td> Katso <a href=#aukaisupihdit>aukaisupihdit </a></td>
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
 </tr>
 <tr>
   <td><a name="haudutus">hauduttaminen </a></td>
     <td>uunin lämpö pidetään tasaisena ja annetaan lämmön vaikuttaa</td>
+      <td>&nbsp;</td>
       <td> s. soaking <br>
       v. soak</td>
 </tr>
@@ -307,6 +347,7 @@ kun pohjalasi kuumennetaan kyllin pehmeäksi.</td>
 alumiinioksidia tai muuta hioma-ainetta, tavallisesti suojamskin läpi.
  Se kuluttaa lasin pinnan himmeäksi. 
  Hiekkapuhalluksella saadaan myös syvempiä reliefejä.</td>
+<td>Sandblåsning</td>
 <td>Sand blasting <br> Etching</td>
 </tr>
 <tr>
@@ -315,6 +356,7 @@ alumiinioksidia tai muuta hioma-ainetta, tavallisesti suojamskin läpi.
   <td> Hioma-aine</td>
   <td> hienojakoinen jauhemainen tai tahna joka hangatessa hioo (kuluttaa) pinnan sileämmäksi.
   Hioma-aine voi olla myös hiomapaeriin tai muuhun pohjaan kiinnitetty.</td>
+  <td>&nbsp;</td>
   <td>Abrasive</td>
 </tr>
 <tr>
@@ -322,6 +364,8 @@ alumiinioksidia tai muuta hioma-ainetta, tavallisesti suojamskin läpi.
   <td> hiomakopneita on erilaisia. Lasitöissä tavallisin on reunahiomakone,
   jossa timanttipinnoitettu pyörivä rulla tekee hankaustyön. 
   Ammattikäytössä on myös nauhahiomakoneita ja tasohiomakoneita.</td>
+<td>slipmaskin</td>
+<td>&nbsp;</td>
 </tr>
 </td>	
 </table>	

@@ -82,7 +82,8 @@ att tillverka färgade glas för sammansmältning.
   <td  >
     <p align=left>
     <a href="../framsida.php"><- Framsidan </a> <br>
-    <A href="../navi/osio2-navi.html"> <- Finska sidor
+    <a href="./perustietoa1.php"> <font color="#00FF00">samma sida på finska </font></a>
+   
   </td>
   <td align=right>
  fortsätter

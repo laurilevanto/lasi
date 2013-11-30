@@ -7,19 +7,83 @@
 	<BODY bgcolor="ffffff" text="000000" link="0000FF" alink=
 "FF0000" vlink="800080">
    
-<table cols=3>
-<!--- Left column  --->
-<td bgcolor="#e0ffe0" width="240"
-
-
-  <?php include "../navi-sv.html"; ?> <br>
-  &nbsp;&nbsp;&nbsp; <br>
-    <?php include "./navi-del1.html"; ?>
-</td>
+<table  COLS=3 WIDTH="100%"  >
+<td>
+<!---vasen palsta--->
+<table width="30%">
+ <tr>
+   <td> 
+            <?php include "./menu1-sv.html"; ?>   
+    </td>  
+ </tr>
+ <tr>
+ 
+</table>
+   </td>
+ 
+ <!---END vasen--->
+ 
 <!---  Text  --->
-<td bgcolor="#ffffff">
-    <?php include "./turva1-sv.html"; ?>
+<td >
+<h2>Om Säkerheten</h2>
+<table width="750">
+<strong>Här är några tips om
+den grundläggande säkerheten</strong>
 
+<ul></ul>
+<li>Inte skor med öppna tår . </li>
+<li>Inga smycken vid arbete med maskiner eller rörliga värktyg </li>
+<li>inte vida ärmar eller annat som kan fastna i</li>
+<li>täck långa håret</li>
+<li><font color="#FF0000"><b>skyddsglasögon</b></font> 
+ Använd skyddsglasögon, 
+ visir är ännu bättre  om du behöver glasögon.</li>
+<li>använd när nödvändigt, hörselskydd och andningsskydd</li>
+<li>Städa upp krossat glas och farliga material genast efter arbetet.</li>
+</p> <p>
+<b>Säkerhet med ugnen</b>
+</p><p>
+Inne i ugnen är  ofta glödhet värme. 
+När den varma ugnen öppnas strömmer ut farligt brännande luft . 
+Det finns ugnsmodeller, där lockets hantag är precis där 
+hetan är värst.
+</p><p>
+Europeiska bestämmelser kräver en sekerhetsbrytare 
+som kopplar av strömmen när man öppnar ugnen. 
+Lär dig en vana att sjäv stanga av strömmen innan du öppnar ugnen.
+</p><p>
+Skydda dina ögon! Ögan har en lins som consenterar ljuset. 
+Lika väl konsentrerar den värmestrålningen och 
+kan steka ögat mycket snabbt.
+. Effekten är kumulativ, och utvecklar obemärkt. 
+Titta inte in i glödheta ugnen mer en 10 till 15 sekunderåt gångrn. 
+Om dit arbete krävar längre observation, 
+andvänd skyddglas typ svetsarens. 
+</p><p>
+Till skillnad från keramiken arbetet med glas medför inte några farliga ångor. 
+Vissa formmaterialer och lim kan orsaka irriterande stänk. 
+Ventilera ugnsutrymmet, om nödvändigt. 
+[2]
+</p>
+
+
+<p>
+<table border bgcolor="#ffffe0" align=center>
+<td> Arbetet med glaset innebär inte oacceptabla risker <br>
+med vissa undantag
+<ul>
+<li> Produktionarbete som fattar flera dar</li>  
+   <li>Om du utsätter dig för stora hälsorisker (t.ex. värme) under en kort tid </li>
+- <li>eller om du arbetar med ett mycket giftigt material, </li>
+ </ul>
+ <strong>Normal aktsamhet och sunt förnuft bör vara tillräcklig.</strong> Källa [1] 
+</td>
+
+</p>
+Referenser <br>
+[1] <a href="http://lauri.lsd.dk/lasi/liitteet/lahteet.php#gregrawls">Greg Rawls Säkerhet Sidor </a><br>
+[2] <a href="http://lauri.lsd.dk/lasi/liitteet/lahteet.php#be-safety"> Bullseye Säkerhetstips </a><br>
+</table>
 
 <td bgcolor="#e0ffe0" width="200">
 &nbsp;&nbsp;&nbsp;

@@ -49,7 +49,7 @@
     
   <td  >
    <p align=right>
-   <A href="tyonkulku4.php"> jatkuu</A>
+   <A href="tyonkulku4.php"> jatkuu ->   </A>
   </td>
 </table>
  <?php include "../navi/copy2.html"; ?>

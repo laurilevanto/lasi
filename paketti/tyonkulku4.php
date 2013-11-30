@@ -29,7 +29,8 @@
   
 <td bgcolor="#ffffff"  >
     <?php include "./tyonkulku4.html"; ?>
-</td>
+
+  </td>
 <!--- END TEKSTI --->
 
    <!--- KUVAT --->

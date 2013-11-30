@@ -46,9 +46,8 @@
  </td>
    <!--- ALALINKIT --->
     </table>
-    </table>
+    
 
-    <?php include "../navi/copy2.html"; ?>
 <table  cols=2 width=100% bgcolor=e0ffe0>
 <tr>
   <td  >
@@ -56,7 +55,10 @@
     takaisin <A href="../index.php"> alkusivulle</A> 
     </td>
     <td>
-    <p align=right> Jatka ->
+    <?php include "../navi/copy2.html"; ?>
+    </td>
+    <td>
+    <p align=right> seuraava sivu->
    <A href="sulatuslasi.php"> Sulatuslasit</A>
   </td>
   </tr>

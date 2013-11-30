@@ -35,7 +35,7 @@ Lue lisää
 
     <td>
     <p align=right> Seuraava sivu on
-   <A href="turva2.php"> turvallisuus jatkuu</A>
+   
   </td>
   </tr>
 </table>

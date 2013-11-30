@@ -52,11 +52,12 @@
     takaisin <A href="../index.php"> alkusivulle</A> 
     </td>
     <td>
-    <p align=right>  seuraava sivu on
-    <a href="../tutustu/perustietoa1.php"> Perustietoa lasista </a>
- 
+    <table >
+<td align="right">
+Jatkuu <a href="./turva3.html"> Lasityön turvallisuudesta</a>
+</td>
 
-  </td>
+
   </tr>
 </table>
 <!--- END-ALALINKIT --->

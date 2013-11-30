@@ -36,22 +36,27 @@
 <td>ilmapuoli</td>
    <td> Se puoli <a href="../mater/ikkunalasi.php">ifloatlasista,</a> joka valussa on ollut ylöspäin, 
    ja johon siksi ei ole tarttunut tinajäämää. Vrt. tinapuoli.</td>
+   <td>&nbsp;</td>
    <td> Air side</td>   
    </tr>
  <tr>
   <td>Inkluusio</td>
   <td> katso <a href="sanasto2.php#sulkeuma">sulkeuma </a></td>   
+  <td>&nbsp;</td>
+  <td>Inclusion</td>
  </tr>
 <tr>
   <td>iridisoitu</td>
     <td>hyvin ohut metallipinnoite lasin toisella puolella. Se hohtaa
     värejä samaan tapaan kuin öljy veden pinnalla</td>
+      <td>&nbsp;</td>
       <td>Iridized <br>Irid</td>
 </tr>
 <tr>
   <td> Irrotusaine</td>
   <td> Katso <a href="../liitteet/sanasto0.php#erotusaine"> erotusaine </a>
   </td>
+  <td>&nbsp;</td>
   <td> Separator <br>
   us. Kiln wash <br>
   br. batt wash</td>
@@ -65,11 +70,15 @@
   <td>Strain point, lasin jäähtyessä raja jonka jälkeen viskositeetti on niin suuri
   että lasissa mahdollisesti olevat jännitykset eivät pääse purkautumaan misään
   järjellisessä ajassa. </td>
+  <td>&nbsp;</td>
   <td> Strain point</td>
 </tr>
-</tr>
+
 <td> jööti</td>
 <td> valumuotin yläosaan tehty säiliö, josta lasia valuu muottiin.</td>
+
+<td>&nbsp;</td>
+<td>&nbsp;</td>
 <tr>
 <td><a NAME="K"></a><font color="#FF0000"><font size=+2>K</font></font></td>
 
@@ -79,17 +88,21 @@
  <td> Kamee-lasi</td>
    <td> Tekniikka jossa värejä on kerrostettu lasiin ja sitten kaivertamalla,
    hiekkapuhalluksella tai syövytyksella saatu esiin päälikerrosten alta</td>
+     
+     <td>&nbsp;</td>
      <td> Camé</td>
 </tr>
 <tr>
     <td> Kanthal </td>
       <td>tavaramerkki kuumuutta kestävälle metallilangalle 
       jota käytetään uunien vastuksissa ja ohuempana usein korujen ripustuslankana. </td>
+        <td>&nbsp;</td>
         <td> Kanthal </td>
 </tr>
 <tr>
   <td> Kapussi</td>
   <td> Riipukseen tai rintaneulaan tarkoitettu "kivi"</td>
+    <td>&nbsp;</td>
     <td> Cabochon</td>
 </tr>
 <tr>
@@ -100,6 +113,7 @@
     <br>
     On olemassa myös kemiallinen karkaisumenetelmä. <br>
     vrt laminoitu lasi</td>
+    <td>&nbsp;</td>
     <td> Tempered glass</td>
 </tr>
 <tr>
@@ -107,10 +121,12 @@
   <td> eli koneantiikki on valssattua transparenttia lasia jonka toinen inta on sileä ja toinen
   on kuvioitu epätasaiseksi antamaan vanhan lasin vaikutelma</td>
   <td>&nbsp;</td>
+  <td>&nbsp;</td>
 </tr>
 <tr>
   <td> Keerna</td>
     <td> Sisäpuolinen apumuotti onton valun tekemiseksi</td>
+    <td>&nbsp;</td>
      <td> kernel, Core mould</td>
 </tr>
 <tr>
@@ -119,15 +135,18 @@
   käytön jälkeen. Valmistetaan usein kipsiseoksesta. Vastakohtana kestomuotti jonka on tarkoitus toimia useita
   polttokertoja.</td>
   <td>&nbsp;</td>
+  <td>&nbsp;</td>
 </tr>
 <tr> 
   <td>Kestomuotti </td>
   <td> Slumppaus tai valumuotti jonka on tarkoitus kestää toistuvaa käyttöä</td>
   <td>&nbsp;</td>
+  <td>&nbsp;</td>
 </tr>
 <tR>
   <td>Kipsi</td>
   <td> CaSo4, muottien teossa käytetty sideaine</td>
+  <td>&nbsp;</td>
   <tD> Gypsum, Plaster</td>
 </tr>
 <tr>
@@ -138,15 +157,10 @@
   muodostumista. Lasin kiteytymistä sanotaan devitrifioitumiseksi eli aine
   menettää lsaimaisuutensa (vitro=lasi). 
   Kiteytymistä voi tapahtua kuumennusvaiheessa ja jäähdytysvaiheessa .</td>
+  <td>&nbsp;</td>
   <td> Devitrification zone</td>
 </tr>
-<tr>
-    <td>Kukkaruukkusulatus</td>
-    <td>katso <a href="#Ruukkusulatus">Ruukkusulatus </a></td>
-    <td> pot melt <br>
-    Drop melt <br>
-    Aperture pour</td>
-</tr>
+
 
 <tr>
   <td>Kohofuusaus   </td>
@@ -155,12 +169,14 @@
   aivan sileä. <br> Katso 
        <a href="../tekniikat/perusfuusaus.php"> perusfuusaus</a>
   </td>
+  <td>&nbsp;</td>
   <td>contour fusing</td>
 </tr>
 <tr>
  <td>Konfetti</td>
-  <td> Hyvin ohut, tavallisesti värillinen lasin lastu. Knfettia käytetään
+  <td> Hyvin ohut, tavallisesti värillinen lasin lastu. Konfettia käytetään
   koriste-elementtinä</td>
+  <td>&nbsp;</td>
   <td> Confet</td>
   </tr>
 <tr>
@@ -173,6 +189,16 @@
     <br>
     Katso: <a href="../mater/lasityypit.php"> Lasityypit</a>
     </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+    <td>Kukkaruukkusulatus</td>
+    <td>katso <a href="#Ruukkusulatus">Ruukkusulatus </a></td>
+    <td>&nbsp;</td>
+    <td> pot melt <br>
+    Drop melt <br>
+    Aperture pour</td>
 </tr>
 <tR>
   <td> kuorittu lasi</td>
@@ -180,12 +206,14 @@
     Kun kovettunut liima kuoritaan pois, se vetää mukanaan lasin pintakerroksesta
     pieniä säröjä. Näin syntyy koristeellinen pinta joka voidaan liekkikiillottaa
     tai hapottaa terävien reunojen pyöristämiseksi</td>
+     <td>&nbsp;</td>
      <td> Glue chipping</td> 
 </tr>
 <tr>
     <TD>Kvartsin inversio</TD>
      
       <td>Kvartsin kiderakenne muuttuu 580 asteessa ja seurauksena on rajusti tapahtuva kappaleen tilavuuden muutos. Tämä voi särkeä keraamisen muotin tai unilevyn</td>
+        <td>&nbsp;</td>
         <td>quarz inversion</td>
 </tr>
 </tr>
@@ -205,6 +233,7 @@
   kuitupaperista leikattuja kuvioita, kasvion osia on käytetty kahden lasikerroksen väliin sulattamalla.
   
   </td>
+  <td>&nbsp;</td>
   <td> inclusion</td>
 </tr>
 <tr>
@@ -212,13 +241,21 @@
     <td> Laminoitu lasi muodostuu kahdesta lasikeroksesta joiden välissä
     on sitkeä muovikalvo. Jos lasi särkyy, laminointi pitää palat yhdessä.
     Esim autojen tuulilasit. Vrt karkaistu lasi</td>
+    <td>&nbsp;</td>
     <td> Laminated glass</td>
 </tr>
 <tr>
 <td>lasi</td>
 <td> lasia on monta eri lajia,
   katso <a href="../mater/lasityypit.php"> lasityypit</a></td>
+<td>&nbsp;</td>
 <td>Glass</td>
+</tr>
+<tr>
+<td>lasileikkuri</td>
+<td>lasiveitsi</td>
+<td>Glas skärare</td>
+<td>Glass cutter</td>
 </tr>
 <tr>
   <td> Lasin liimaus </td>
@@ -226,12 +263,14 @@
   <a href="../tarv/liimaus.php"> tarkemmin</a>. Joskus hienostellaan
   ja kutsutaan liimattua esinettä kylmäfuusatruksi.
   </td>
+  <td>&nbsp;</td>
   <td> Gluing, Cold fusing</td>
 </tr>
 <td>Lasimaalaus</td>
 <td>Värillisestä lasista, usein ikkunaan lyijykiskotekniikalla koottu työ. 
 Tekniikkaan liittyy usein varjostus- ja rajausvärien polttaminen lasiin.
 Termiä voidaan käyttä myös  sulatustekniikalla kootusta työstä.</td>
+<td>&nbsp;</td>
 <td> Glass painting</td>
 </tr>
 <tr>
@@ -240,6 +279,7 @@ Termiä voidaan käyttä myös  sulatustekniikalla kootusta työstä.</td>
  parista sentistä jauheeseen. <br>
  Karkeammasta murskasta käytetään englanninkielistä termiä
  <a href="../liitteet/WGdict.html#Cullets"> Cullet </a></td>
+ <td>&nbsp;</td>
  <td> Frit</td>
 </tr>
 <tr>
@@ -247,6 +287,7 @@ Termiä voidaan käyttä myös  sulatustekniikalla kootusta työstä.</td>
 <td>kuumalasitekniikka jossa erittäin notkeasta lasimassasta 
 puhallusputkella ja pyörittämällä muovaillaan teos.
  Puhallus voidaan tehdä joko vapaasti puhaltamalla tai muottiin.</td>
+<td>&nbsp;</td>
 <td>Glass blowing</td>
 </tr>
 <tr>
@@ -254,6 +295,7 @@ puhallusputkella ja pyörittämällä muovaillaan teos.
   <td> Hienosta lasimurskasta ja vedestä muodostettu tahna jota käytetään
   esineiden muovaamiseen  <a href="../liitteet/sanasto1.php#Pate_de_verre">
   Pate de Verre -tekniikalla </a></td>
+  <td>&nbsp;</td>
   <td>Pate de Verre</td>
 </tr>
 <tr>
@@ -262,12 +304,14 @@ puhallusputkella ja pyörittämällä muovaillaan teos.
   käytetään antamaan kiiltävämpi pinta tavallista liekkikiillotusta alemmassa lämmössä
   Käytetään myös - varsionkin ikkunalasin kanssa - estämään pinnan devittrifioitumista. <br>
   Katso <a href="../mater/overspray.php"> lasitteet</a></td>
+  <td>&nbsp;</td>
   <td> Overspray, overglaze </td>
 </tr>
 <td>Lasiveitsi</td>
 <td>Työkalu jonka kärjessä on erittäin kova rissa. 
 Sillä vedetään lasiin viiru, joka sitten aukaistaan. 
 Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td>
+<td>Glas skärare</td>
 <td>Glass cutter</td>
 </tr>
 <tr>
@@ -277,12 +321,14 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
   kuiva veitsi on välillä kasteltava öljyyn. <br>
   Öljy voitelee rissaa mutta myös auttaa lasin aukeamisessa.
   </td>
+  <td>&nbsp;</td>
   <td></td>
 </tr>
 <tr>
   <td> Luto</td>
   <td> Kertaalleen poltossa ollut muottimassa joka on jauhettu hienoksi.
   Käyteään kipsiseosmuotissa lisäaineena</td>
+  <td>&nbsp;</td>
   <td>Luto</td>
 
 </tr>
@@ -291,6 +337,7 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
   <td>vajuttaminen, slumppaus on työtapa jossa lasi kuumennetaan taipuisaksi
   mutta ei varsinaisesti juoksevaksi niin että se taipuu muotoon paksuuden
   oleellisesti muuttumatta</td>
+  <td>Slumpning</td>
   <td> Slumping</td>
 </tr>
 <tr>
@@ -298,6 +345,8 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
 <td> Lämmön vaikutus lasiin syntyy lämpötilasta ja sen vaikutusajasta.
   Yhdessä nämä muodostavat lämpötyön.
     Matalammssa lämmössä mutta pidemmällä ajalla saadaan usein sama lämpötyö</td>
+
+<td>&nbsp;</td>
 <td> Heat work </td></tr>
 <tr>
 <td><a NAME="M"></a><font color="#FF0000"><font size=+2>M</font></font></td>
@@ -305,8 +354,9 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
 <td></td><td></td>
 <tr> 
   <td>Mineraalitärpätti </td>
-  <td> eli lakkabensiini on öljysn tislaustuote joka liuottaa hyvin rasvoja,
+  <td> eli lakkabensiini on öljyn tislaustuote joka liuottaa hyvin rasvoja,
   vahaa, parafiinia ja luonnonkumia. Ei liukene veteen</td>
+  <td>&nbsp;</td>
   <td> White spirit</td>
 </tr>
 <tr>
@@ -314,11 +364,13 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
   <td> Kahden tai useamman aineen atomien muodostama ryhmä joka käyttäytyy
   fysikaalisesti kuin uusi aine.
    Esim kuparioksidi käyttäytyy eri tavalla kuin kupari ja happi erikseen.</td>
+   <td>Molekyl</td>
    <td> Molecule</td>
 </tr>
 <tr>
   <td> Mosaiikki</td>
   <td> Pienistä lasipaloista koottu työ. Se voi olla fuusattu tai liimattu
+  <td>Mosaik</td>
   <td> Mosaic</td></td>
 </tr>
 </tr>
@@ -326,21 +378,25 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
   <td> Muotoutumislämpötila</td>
   <td> lämpöalue jossa lasi voidaan taivuttaa sulattaa tai puhaltaa haluttuun muotoon.
   Tällä siustolla olen käyttänyt nimitystä työlämpötila</td>
+  <td>Arbets temperatur</td>
   <td> Process temperature</td>
 </tr>
 <tr>
 <td>  Muotti  </td>
   <td> sopivasta aineesta tehty astia johon lasi voidaan slumpata tai valaa</td>
+    <td>Form</td>
     <td> amer. Mold, engl. Mould</td>
 </tr>
 <tr>
   <td> Muuntumisalue </td>
     <td> Lämpöalue jossa lasin olomuoto vaihtuu kiinteäsätä juoksevaksi. Lue lisää <a href="../turhaa/mitalasion.php"> lasin rakenne</a></td>
+    <td>&nbsp;</td>  
       <td> Transition range, transition zone</td>
 </tr>
 <tr>
   <td> Muuntolasi </td>
     <td> Lasi jonka väri muuttuu poltossa. Lue lisää <a href="../mater/varireaktiot.php"> Värireaktiot</a></td>
+      <td>&nbsp;</td>
       <td> Striker <br>
       striking color</td>
 </tr>
@@ -356,6 +412,7 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
   lämpötilassa aine on kiinteää. Molekyylien paikat ovat lukkiutuneet ja
   nestemäistä kuumempana aine on kaasumaista, molekyylit eivät ole lainkaan
   sidoksissa toisiinsa. Vrt. Jää, vesi, höyry. </td>
+  <td>&nbsp;</td>
   <td> Liquid</td>
 </tr>
 
@@ -369,18 +426,22 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
    Veden ominaispaino on metrijärjestemässä yksi, lyijyn 11 joten samankokoinen
    lyijykappale painaa 11 kertaa enemmän. 
    Soodalasien ominaispaino vaihtelee 2.4 lähellä
+  
   </td>
+  <td>&nbsp;</td>
   <td> Specific weight</td>
 </tr>
 <tr>
   <td> Opaakki lasi</td>
   <td>Tavallisesti värillinen, läpinäkymätön lasi joka ei läpäise paljoa valoa.. </td>
+  <td>&nbsp;</td>
   <td>Opaque</td>
 </tr>
 <tr>
   <td> Opaali lasi</td>
   <td>Valkoinen valoa läpäisevä mutta ei läpinäkyvä lasi. Myös maitolasi.
   Tällä sivustolla olen käyttänyt muotoa opaakki myös värillisistä. </td>
+  <td>&nbsp;</td>
   <td>Opalescent</td>
 </tr>
 <tr>
@@ -389,6 +450,7 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
      Käyttätyy kuin keramiikan lasitteet mutta lasikäytössä ovat aivan eri aineita.
      <br>
      Lue <a href="../mater/overspray.php"> lisää</a></td>
+       <td>&nbsp;</td>
        <td> Overglaze <br>
        Overspray</td>
 </tr>
@@ -402,6 +464,7 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
   <td> ranskankielestä tullut ninitys menetelmälle jossa esine muodostetaan
   päällystämällä muotin pinta lasitahnalla ja sitten fuusamalla se yhtenäiseksi
   lasiksi. Tuloksena on opaakki valonhohtoinen väri.</td>
+  <td>&nbsp;</td>
   <td> Pate de Verre</td>
 
 
@@ -409,7 +472,23 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
 <tr>
   <td> pato</td>
   <td> Rengas tai muu kehys joka rajoittaa sulan lasin valumista laajemmalle</td>
+  <td>&nbsp;</td>
   <td> Dam</td>
+</tr>
+<tr>
+   <td> <a name="pakasta"> pakasta ja paista  </a></td>
+   <td> tekniikka jossa joustavaan muottiin tehdään vedestä ja lasimurskasta pipari. Se  
+   pakastetaan ja lsijoitetään jäätyneenä ussissa teokseen. Uunissa jää sulaa ja haihtuu, mutta lasimurska säilyttää muodom ja fuusautuu teokseen. </td>
+   <td>&nbsp;</td>
+   <td>freeze and fry</td>
+   
+</tr>
+<tr>
+   <td> Pipari </td>
+   <td> Lasimurskasta erilliseenmuottiin tehty elementti joka voidaan liittää työhön. Katso myös 
+   <a href="./#pakasta">pakasta ja paista </a> </td>
+   <td>&nbsp;</td>
+   <td> wafer</tr>
 </tr>
   <tr>
     <TD>pintafuusaus</TD>
@@ -417,6 +496,7 @@ Vanhemmissa lasiveitsissä oli timanttikärki, jonka kulmalla viiru vedettiin.</td
       <td>Päällekkäinin sulattaminen niin että kappaleiden reunat
        pysyvät jyrkkinä tai pyöristuvät. Katso 
        <a href="../tekniikat/perusfuusaus.php"> perusfuusaus</a></td>
+       <td>&nbsp;</td>
         <td>tack fuse</td>
 </tr>
 <tr>
@@ -430,12 +510,14 @@ Voidaan myös valmistaa suodattimia, joilla on kyky valikoida mihin suuntaan
 polarisoitunut valo pääsee läpi. Kun lasi tai kirkas muovi altistetaan
 jännitykselle, se kiertää läpikulkevan valon polarisaatiotasoa.
 Tähän perustuu <a href="../mater/polarisaatio.php"> polarisaatiotesti</a></td>
+<td>&nbsp;</td>
 <td> Polarized, polarisation</td>
 </tr>
   <tr>
   <td> päälle slumppaus</td>
     <td> slumppaus jossa lasi vajutetaan 
     <a href="../tekniikat/slumppaus2.php">sisäpuolisen muotin </a> ulkopintaa vasten </td>
+    <td>&nbsp;</td>
     <td> draping</td>
 </tr>
 <tr>
@@ -443,6 +525,7 @@ Tähän perustuu <a href="../mater/polarisaatio.php"> polarisaatiotesti</a></td>
           <td> Kun halutaan tehdä muotti josta valettu esine saadaan ulos
           muottia särkemättä tai avaamatta, on sen reunojen oltava vinot ulospäin.
           Riittävä päästökulma on yleensä n. 2, mieluummin 5  astetta</td>
+         <td>&nbsp;</td>
           <td> Angle of Relief</td>
           </tr>
 <tr>
@@ -457,10 +540,14 @@ Tähän perustuu <a href="../mater/polarisaatio.php"> polarisaatiotesti</a></td>
   <td> Rengasmuotti</td>
   <td> Slumppausmuotti jossa lasin ei ole tarkoitus asettua seuraamaan muotin pintaa.
   Näin saadaan esine jolla on kiiltavän sileä pinta molemmilla puolilla.</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+
 </tr>
 <tr>
   <td> <a name="rissa"> Rissa </a></td>
   <td> Pieni pyörivä kiekko lasiveitsen kärjessä</td>
+  <td>&nbsp;</td>
   <td> Cutting wheel</td>
   
 </tr>
@@ -469,6 +556,7 @@ Tähän perustuu <a href="../mater/polarisaatio.php"> polarisaatiotesti</a></td>
     <td> lasin 
     <a href="../tekniikat/ruukkusulatus.php">sulattaminen kukkaruukussa, </a> josta se valuu uunilevylle 
     uudeksi levylasiksi. </td>
+    <td>&nbsp;</td>
     <td> pot melt, Aperture pour</td>
 <td></td><td></td>
 </tr>

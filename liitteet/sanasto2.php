@@ -33,6 +33,8 @@
 <tr>
 <td>Sabluuna <br> sapluuna</td>
 <td>Maski tai malline jonka avulla muoto tai kuvio siirretäänlasille.</td>
+
+<td>&nbsp;</td>
 <td>Template <br> Stencil</td>
 </tr>
 
@@ -43,12 +45,14 @@
 	tavoiteaika ( tai toisissa malleissa muutosnopeus astetta/tunti).
 	 Jos loppulämpötila on sama kuin alkulämpötila, segmentti on 
 	 <a href="./sanasto0.php#haudutus">haudutusaika. </a></td>
+     <td>&nbsp;</td>
           <td>Segment, phase</td>
   </tr>
   <tr>
     <td> sitko</td>
     <td> eli viskositeetti on käänteinen nesteen juoksevuudelle.<br>
     Katso <a href="../mater/viskositeetti.php"> Viskositeetti</a></td> 
+    <td>&nbsp;</td>
     <td> Viscosity</td> 
   </tr>
 
@@ -57,6 +61,7 @@
 	<td>Ohjausyksikön vaihe jossa uuni lämpiää tai jäähtyy niin nopeasti kuin suinkin.
 	Bentrupin ohjelmissa SKIP määritellään asettamalla aika nollaksi  sille ohjelmab askeleelle.
 	Joissakin toisissa asetetaan astetta tunnissa arvoksi 9999.</td>
+         <td>&nbsp;</td>
           <td>Skip, AFAP</td>
   </tr>
 
@@ -64,6 +69,7 @@
     <TD>slumppaus</TD>
       <td> <a href="../tekniikat/slumppaus1.php">lasin vajuttaminen </a>
       muotin sisään tai päälle</td>
+        <td>Slumpning</td>
         <td>slumping</td>
   </tr>
   <tr>
@@ -71,6 +77,7 @@
     <td> toinen suomennos sanalle <a href="../liitteet/sanasto1.php#lasite">
     lasite. </a>
     Korostaa sen kukyä alentaa sulamispistettä</td>
+    <td>&nbsp;</td>
     <td> Flux</td>
   </tr>
   <tr>
@@ -87,18 +94,21 @@
     joka on kuin jäykkää siirappia.<br>
     Eri lasilaatujen  lämpöalueet poikkeavat selvästi toisistaan.
         </td>
+        <td>&nbsp;</td>
         <td>Melting point</td>
   </tr>
   <tr>
     <TD>sulatuslasi</TD>
 	<td>lasisarja jonka valmistaja on tehnyt keskenään sulatuskelpoiseksi
 	<br> Lue <a href="../mater/sulatuslasit_2.php"> lisää</a></td>
+          <td>&nbsp;</td>
           <td>s. fusible glass<br>
           s. compatible  glass</td>
   </tr>
 <tR>
   <td> <a name="sulkeuma">Sulkeuma </a></td>
   <td> Toisen materiaalin, usein metallilangan ta kalvon sulkeminen kahden yhteensulatetun lasin väliin.</td>
+  <td>&nbsp;</td>
   <td> Inclusion</td>
 </tr>
 <tr>
@@ -106,6 +116,7 @@
 	    <td>päällekkäin sulattaminen niin että lopullinen pinta on 
 	    melkein sileä ja palojen rajat pehmenneet.  Katso 
        <a href="../tekniikat/perusfuusaus.php"> perusfuusaus</a></td>
+          <td>&nbsp;</td>
           <td>full fuse</td>
   </tr> 
  
@@ -117,16 +128,19 @@
          <td> Slumppauksessa lasi yleensä venyy, mutta float-lasin tinaoksidipinta ei.
          Se repeilee ja antaa lasin pinnalle harmahtavan tai joskus öljyisen
          vaikutelman. Tämä sekoitetaan usein devitrifiontiin</td>
+           <td>&nbsp;</td>
            <tD>Tin bloom</td>
 </tr>
 <tr>
   <td>Trissa</td>
   <td> Katso <a href="./sanasto1.php#rissa"> Rissa</a></td>
   <td>&nbsp;</td>
+  <td>&Cutting wheel</td>
 </tr>
 <tr>
       <td>Työlämpötila</td>
         <td>on lämpötila johon uuni kuumennetaan halutun tuloksen aikaansaamiseksi</td>
+        <td>&nbsp;</td>
         <td>working temperature
         <br>
         lue <a href="../uuni/kayttaytyminen.php"</td>
@@ -139,11 +153,13 @@
 <tr>
   <td> uunipesu</td>
     <td> katso <a href="./sanasto0.php#erotusaine"> erotusaine</a></td>
+     <td>Separator</td>
      <td></td>
 </tr>
   <tr>
     <TD>uunisulatus</TD>
       <td>lasin yhteensulattaminen uunissa</td>
+        <td>&nbsp;</td>
         <td>kiln working</td>
   </tr>	
 <td><a NAME="V,W"></a><font color="#FF0000"><font size=+2>V,W</font></font></td>
@@ -151,6 +167,7 @@
  <tr>
     <TD>vajuttaminen</TD>
       <td>lämpömuovaus,slumppaus. Lasin muotoileminen uunissa muotin sisään tai päälle</td>
+        <td>&nbsp;</td>
         <td>v. slump<br>
 	     s. slumping<br>
 	     a. slumped</td>
@@ -159,18 +176,21 @@
 <td> valopöytä</td>
 <td>Pöytätaso opaalilasista tai muovista. Se valaistaan altapäin, jolloin esim tummien
 lasien piirrottaminen on helpompaa.</td>
+<td>&nbsp;</td>
 <td> Light table</td>
 </tr>
 <td>valokuvausteltta</td>
 <td>Tavallisesti valkoisesta kankaasta, muovista tai paperista tehty rakennelma.
 Sen tarkoitus on levittää hajavaloa niin 
 ettei lasiesineen valokuvaukseen tule liian kirkkaita heijastuksia</td>
+<td>&nbsp;</td>
 <td>Photo tent</td>
 </tr>
   <tr>
     <td> valusavi</td>  
       <td> saviliete josta voidaan valaa päästävään  kispimuottiin saviesineitä.
       Keraamiset muotit tehdään usein valusavesta aitimuotin sisään.</td>
+       <td>&nbsp;</td>
         <td> Slip casting, slip</td>
   </tr>
   <tr>
@@ -178,10 +198,13 @@ ettei lasiesineen valokuvaukseen tule liian kirkkaita heijastuksia</td>
     <td> vapaa lämpömuovaus kun lasin annetaan taipua omasta painostaan
     muotoon joka ei ole tuettu muotilla. Rengasmuotin käyttö on vapaata slumppausta.
     Samoin päälleslumppaus, jossa lasi taipuu muotin  yli asettumatta pintaa vasten.  
+  <td>&nbsp;</td>
+  <td>&nbsp;</td>
   </tr>
   <tr>
     <TD>viskositeetti</TD>
       <td>eli sitko on ilmaisu nesteen juoksevuudelle. Vedellä on pieni viskositeetti, hunajalla ja tervalla suuri</td>
+        <td>&nbsp;</td>
         <td>s. viscosity<br>
 	     </td>
   </tr>
@@ -194,6 +217,7 @@ ikkunalasin tinapuoleen.
       
       <br>
       lue <a href="../mater/varireaktiot.php"> lisää</a></td>  
+      <td>&nbsp;</td>
         <td> Color reaction</td>
   </tr>
   <!---<tr>
@@ -209,6 +233,7 @@ ikkunalasin tinapuoleen.
     <tr>
     <TD>Yhteensopivuus</TD>
       <td>Lasisarjalle annettu ominaisuus että lasien välille ei synny jännityksiä oikein jäähdytettynä. Vastakohta yhteensopimattomuus, joka ilmenee lasin särkyvyytenä uunissa tai joskus vasta vuosia myöhemmin</td>
+        <td>&nbsp;</td>
         <td>s. compatibility<br>
 	     </td>
 	 </tr>
@@ -237,6 +262,7 @@ ikkunalasin tinapuoleen.
     <td> Öljyveitsi </td>
       <td> Lasiveitsi, jonka varressa on säiliö, 
       josta käytettäessä valuu leikkausöljyä viiruun</td>
+        <td>&nbsp;</td>
         <td>Oil cutter </td>
 	 </tr>
 </table>

@@ -54,14 +54,14 @@
   Edellinen sivu <A href="tyonkulku1.php"> Työn kulku 1</a>  <br>
    takaisin <A href="../index.php"> alkusivulle</A> 
   </td>
-  
+  <?php include "../navi/copy2.html"; ?>
   <td  >
    <p align=right>
    <A href="tyonkulku3.php"> jatkuu </A>
   </td>
 </table>
-<!--- END-ALALINKIT --->
-<?php include "../navi/copy2.html"; ?>
+
+
 
 <!--- END-ALALINKIT --->
 </body>
