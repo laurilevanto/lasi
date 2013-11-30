@@ -1,19 +1,133 @@
-<HTML>
-
+<html>
 <head>
   <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
   <meta name="description" content="Lasinsulatus opas">
   <TITLE>Lasinsulatus</title>
-  <meta name="google-translate-customization" content="69be97c55ee6b234-f0c018964106e741-gdbfaef1f9de9036f-12"></meta>
  </head>
 	<BODY bgcolor="ffffff" text="000000" link="0000FF" alink=
 "FF0000" vlink="800080">
+<table>
+<tr>
+  <td> sivu 1.</td>
+</tr>
+ <tr>
+     <td ><strong><font size="+1">Lauri Levanto</font></strong></td>
+      <td align=right>&nbsp;&nbsp;<em>lauri</em></td><td>@</td> <td><em>lsd.dk</em></td> 
+     </td>
+   </tr>    
+
+ </table>
+ 
+    < h1 >Matkaopas lasin sulatukseen </h1>
+<table cols="3" width="100%" border bgcolor="#a0e0a0">
+  <tr>
+    <td >
+    <a href="./tutustu/lukijalle.php"><img src="flag-fin.jpg" width=150></img><b>Suomeksi</b> </a>
+    </td>
+     <td >
+    <td >
+    <a href="./tutustu/lukijalle-sv.php"><img src="flag-sv.jpg" width=150></img><b>På Svenska</b></a>
+    </td>
+     <td >
+    <a href="./english.html"><img src="flag-eng.jpg" width=150></img><b>In English</b></a>
+    </td>
+    </tr>
+ <table>
+ <td> 
+
+
+  
+<table cols =3
+ width=100% >
+
+  <td>
+  <table border >
+<tr>
+<td  bgcolor=#e0ffe0><b>Aloita</b> 
+ <A href="./tutustu/lukijalle.php"> <b>tästä</b></A></td>
+ </tr>
+ <tr>
+<td  bgcolor=#e0ffe0><b>Lue myös</b> 
+ <A href="./tutustu/turvallisuus1.php"> <b>turvallisuudesta</b></A></td>
+</tr>
+<tr>
+<td  bgcolor=#e0ffe0><b>Katso onko  tullut</b> 
+ <A href="./mita-uutta.html"> <b>uutta</b></A> </td>
+</tr>
+<tr>
+<td  bgcolor=#e0ffe0><b>Suunnista</b> 
+ <A href="./navi/osio2-navi.html"> <b>Näin</b></A> </td>
+</tr>
+<tr>
+  <td  bgcolor=#e0ffe0>
+     <a href="./galleries/gallerioita.html"> Gallerioita 
+    <i> Galleries</i></a> <br> 
+  </tr>
+  <tr>
+<td  bgcolor=#e0ffe0><b>Onko sinulla</b> 
+<A href="./polku/kysymys.php"> <b>Kysymyksiä?</b></a> 
+ </td>
+ </tr>
+ <tr><td>&nbsp;</td></tr>
+ <tr>
+    <td bgcolor=#a0e0a0>
+       <a href="english.html"><b>English Menu</b></a> Some useful pages in English
+  </td> 
+ </tr>
+ </table>
+ 
+ <td>
+    <i><font size="+1"> Lasin sulatus on lasin muovaamista lämmön avulla 
+    lasi- tai keramiikkauunissa.</font></i><br>
    
+ Se on käsityötaito joka vaatii kokemusta 
+ mutta yltää myös vaativaan taiteelliseen tasoon. 
+ Matka taitoon on pitkä mutta jo alkumetreillä sen
+  tuloksetkin näkyvät.  
+  Olen yrittänyt madaltaa aloittelijan eteen tulevia kynnyksiä 
+  mutta vasta sinun oma kokemuksesi tallaa tien tasaiseksi. 
+<p>
+Tämän sivuston tarkoituksena on opastaa lasin sulatukseen uunissa. Alue on kiehtova mutta laaja. Jokainen joutuu etsimään oman polkunsa ja oman kiinnostuksensa mukaiset kohteet. Olen yrittänyt madaltaa aloittelijan eteen tulevia kynnyksiä mutta vasta sinun oma kokemuksesi tallaa tien tasaiseksi. Mukana on tienviittoja (linkkejä) toisiin kohtiin tai ulkoisille sivuille, jotka opastavat syvemmälle tai johonkin nähtävyyteen. 
+ </p> Sivut on jaettu kahteen osaan:<br>
+   <a href="./tutustu/lukijalle.php"><b>OSA 1 Tutustumiskierros</b></a>
+    joka antaa yleiskuvan aiheesta <br>
+     <a href="./navi/osio2-navi.html"><b>   <b>OSA 2 Kartasto</b></b></a>   
+    jonka avulla voi edetä syvemmälle asioihin.
+    <br>
+       
+        </td>
+ 
+    <td> <td width=30% bgcolor="#ffffff" align=center >
+  <a href="./valk-tuikku.jpg"> 
+ <img src="./valk-tuikku.jpg" alt="" width=250 />  <br> 
+  <strong>Talven valoa </strong><em><strong>Winter Light</strong>
+  </em><br>
+  </img>
+  </a>
+   <br>
+</td>
+</tr>
+</table>
+<br>
+  <div id="google_translate_element"></div>
+  <script type="text/javascript">
+function googleTranslateElementInit()
+ {  new google.translate.TranslateElement({pageLanguage: 'fi', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, multilanguagePage: true}, 'google_translate_element');}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<table border bgcolor="#ffffe0" align=center width=80%>
+<td>
+<font size="-2"><strong>Copyright 2007,2011 Lauri Levanto</strong> &nbsp;&nbsp;
+<strong> URL http://lauri.lsd.dk/lasi/</strong><br>
+ Sivuja saa kopioida sähköisesti tai tulosteina,  ehdolla että sivun
+  copyright lauseke on  mukana. Jos kuvan tai tekstiosion yhteydessä on
+   lähdemaininta tekijästä ja/tai kuvaajasta
+on  häneltä pyydettävä erikseen lupa. <br>
+Kuvissa esiintyvät teokset ovat tekijänoikeuden suojaamia, eikä niitä saa kopioida myyntiin
 
-  <?php include "./index3.html"; ?>
-  <br>
- 
- 
-   </body>
+</font>
+</td>
+</table>
+
+</body>
 </html>
-
