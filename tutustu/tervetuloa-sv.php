@@ -57,7 +57,7 @@ Bilderna på höger visar vad kan man göra. Klicka på bilden för att se den större
 <p>
     
 
-<table  cols=2 width=100% bgcolor=e0ffe0>
+<table  cols=2 width=100% bgcolor=e0ffe0 border >
 </td>
   <td  >
     <p align=left>
