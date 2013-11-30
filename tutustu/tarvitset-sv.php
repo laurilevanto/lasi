@@ -85,7 +85,7 @@ lue lisää
   </td>
   <td align=right>
 Nästa sidan är<br>
-<a href="./turvallisuus1-sv.php">  
+<a href="./turvallisuus1-sv.html">  
 Om säkerheten</a>
   </td>
 
