@@ -8,8 +8,8 @@
 
 <table  COLS=3 WIDTH="100%"  >
 <!---vasen palsta--->
-<tr width="20%">
-  <td  bgcolor="#ffffff">
+<tr >
+  <td  bgcolor="#ffffff" width="20%">
      <?php include "../navi/quickmenu.html"; ?><br>
      <table  border bgcolor="#e0ffe0">
        <td>         

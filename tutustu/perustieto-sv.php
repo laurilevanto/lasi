@@ -2,22 +2,20 @@
 <html>
 <p>1.4
 </p>
-<table  COLS=3 WIDTH="100%"  >
+<table  COLS=3 WIDTH="100%" border >
 <td>
 <!---vasen palsta--->
-<tr>
+
    <td> 
             <?php include "./menu1-sv.html"; ?>   
     </td>  
  <br>
 
-   </td>
- </tr>
  <!---END vasen--->
  
   </td>
  <td>
-<table width="600" align="center"  border>
+<table width="600" >
 <tr>
 <td>
 <h2>Om glasmaterialet</h2>
@@ -112,7 +110,7 @@ Muita aiheeseen liittyviä sivuja:
   <td> Sulatuslaseista<a href="../mater/sulatuslasit_2.php"> Sulatuslasit</a>
   </td>
 </tr>
-
+</table>
 </table>
 <p>
 <table  cols=2 width=100% bgcolor=e0ffe0>
