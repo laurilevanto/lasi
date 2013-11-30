@@ -1,0 +1,135 @@
+<HTML>
+ <?php include "../navi/head.html"; ?>
+	<BODY bgcolor="FFFFFF" text="000000" link="0000FF" alink="FF0000" vlink="800080">
+
+
+
+
+<table  COLS=3 WIDTH="100%"  >
+<td>
+<!---vasen palsta--->
+
+   <td> 
+            <?php include "./menu1-sv.html"; ?>   
+    </td>  
+ <br>
+
+
+
+ 
+
+   </td>
+ 
+ <!---END vasen--->
+ 
+<!---Keskipalsta TEKSTI --->
+
+  <td  >
+ 
+      <h2>Om Säkerheten</h2>
+<table width="750">
+<strong>Här är några tips om
+den grundläggande säkerheten</strong>
+
+<ul></ul>
+<li>Inte skor med öppna tår . </li>
+<li>Inga smycken vid arbete med maskiner eller rörliga värktyg </li>
+<li>inte vida ärmar eller annat som kan fastna i</li>
+<li>täck långa håret</li>
+<li><font color="#FF0000"><b>skyddsglasögon</b></font> 
+ Använd skyddsglasögon, 
+ visir är ännu bättre  om du behöver glasögon.</li>
+<li>använd när nödvändigt, hörselskydd och andningsskydd</li>
+<li>Städa upp krossat glas och farliga material genast efter arbetet.</li>
+</p> <p>
+<b>Säkerhet med ugnen</b>
+</p><p>
+Inne i ugnen är  ofta glödhet värme. 
+När den varma ugnen öppnas strömmer ut farligt brännande luft . 
+Det finns ugnsmodeller, där lockets hantag är precis där 
+hetan är värst.
+</p><p>
+Europeiska bestämmelser kräver en sekerhetsbrytare 
+som kopplar av strömmen när man öppnar ugnen. 
+Lär dig en vana att sjäv stanga av strömmen innan du öppnar ugnen.
+</p><p>
+Skydda dina ögon! Ögan har en lins som consenterar ljuset. 
+Lika väl konsentrerar den värmestrålningen och 
+kan steka ögat mycket snabbt.
+. Effekten är kumulativ, och utvecklar obemärkt. 
+Titta inte in i glödheta ugnen mer en 10 till 15 sekunderåt gångrn. 
+Om dit arbete krävar längre observation, 
+andvänd skyddglas typ svetsarens. 
+</p><p>
+Till skillnad från keramiken arbetet med glas medför inte några farliga ångor. 
+Vissa formmaterialer och lim kan orsaka irriterande stänk. 
+Ventilera ugnsutrymmet, om nödvändigt. 
+[2]
+</p>
+
+
+<p>
+<table border bgcolor="#ffffe0" align=center>
+<td> Arbetet med glaset innebär inte oacceptabla risker <br>
+med vissa undantag
+<ul>
+<li> Produktionarbete som fattar flera dar</li>  
+   <li>Om du utsätter dig för stora hälsorisker (t.ex. värme) under en kort tid </li>
+- <li>eller om du arbetar med ett mycket giftigt material, </li>
+ </ul>
+ <strong>Normal aktsamhet och sunt förnuft bör vara tillräcklig.</strong> Källa [1] 
+</td>
+
+</p>
+Referenser <br>
+[1] <a href="http://lauri.lsd.dk/lasi/liitteet/lahteet.php#gregrawls">Greg Rawls Säkerhet Sidor </a><br>
+[2] <a href="http://lauri.lsd.dk/lasi/liitteet/lahteet.php#be-safety"> Bullseye Säkerhetstips </a><br>
+</table>
+ <p>
+ <table  cols=2 width=100% border >
+
+  <td  >
+    <p align=left>
+    <a href="../index-sv.html"><- Framsidan </a> <br>
+    
+  </td>
+ <td align="center">
+   Copyright 2007,2013 Lauri Levanto  <br>
+   URL http://lauri.lsd.dk/lasi/
+  </td>
+  <td align=right>
+Nästa sidan är<br>
+<a href="./perustieto-sv.php">  
+Om glasmaterialet</a>
+  </td>
+
+</table> 
+</p>
+</td>
+
+<!--- END TEKSTI --->
+    <!--- oikealle KUVAT --->
+<table>
+  <td width="200" bgcolor="#e0ffe0" valign=top rowspan=2> 
+
+ 
+ <!--- END KUVAT --->  
+ </table>
+ </td>
+ 
+   <!--- ALALINKIT --->
+<!--- html-sivulla --->
+<!--- END-ALALINKIT --->
+
+ 
+
+
+</body>
+</html>
+
+
+
+
+
+
+
