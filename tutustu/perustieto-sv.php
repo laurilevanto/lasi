@@ -14,9 +14,11 @@
    </td>
  </tr>
  <!---END vasen--->
+ 
+  </td>
  <td>
 <table width="600" align="center"  border>
-
+<tr>
 <td>
 <h2>Om glasmaterialet</h2>
 
@@ -89,6 +91,7 @@ att tillverka färgade glas för sammansmältning.
 </p>
 
 </td>
+</tr>
 </table>
 <p>
 Muita aiheeseen liittyviä sivuja:

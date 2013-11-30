@@ -6,11 +6,13 @@
  </head>
 	<BODY bgcolor="ffffff" text="000000" link="0000FF" alink=
 "FF0000" vlink="800080">
-   
+   <p>1.3
+</p>
 <table  COLS=3 WIDTH="100%"  >
 <td>
+
 <!---vasen palsta--->
-<table width="30%">
+<table >
  <tr>
    <td> 
             <?php include "./menu1-sv.html"; ?>   
@@ -95,7 +97,26 @@ Referenser <br>
  
 </table>
 <p>
+ 
+ <table  cols=2 width=100% border >
 
+  <td  >
+    <p align=left>
+    <a href="../index-sv.html"><- Framsidan </a> <br>
+    
+  </td>
+ <td align="center">
+   Copyright 2007,2013 Lauri Levanto  <br>
+   URL http://lauri.lsd.dk/lasi/
+  </td>
+  <td align=right>
+Nästa sidan är<br>
+<a href="./perustieto-sv.php">  
+Om glasmaterialet</a>
+  </td>
+
+</table> 
+</table>
 </body>
 </html>
 
