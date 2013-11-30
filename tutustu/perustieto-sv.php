@@ -1,16 +1,18 @@
 
 <html>
+<p>1.4
+</p>
 <table  COLS=3 WIDTH="100%"  >
 <td>
 <!---vasen palsta--->
-
+<tr>
    <td> 
             <?php include "./menu1-sv.html"; ?>   
     </td>  
  <br>
 
    </td>
- 
+ </tr>
  <!---END vasen--->
  <td>
 <table width="600" align="center"  border>

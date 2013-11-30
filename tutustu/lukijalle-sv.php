@@ -3,17 +3,14 @@
 <table  COLS=3 WIDTH="100%"  >
 <td>
 <!---vasen palsta--->
-<table width="30%">
+<table>
  <tr>
    <td> 
             <?php include "./menu1-sv.html"; ?>   
     </td>  
  </tr>
  <tr>
- 
- 
- 
-</table>
+ </table>
    </td>
  
  <!---END vasen--->
@@ -31,12 +28,12 @@ aldrig ut. Jag läste engelska källor och gjorde anteckningar.
 Med tiden har jag märkt att svenskspråkiga 
 har det inte heller bättre.
 Danskarna har ett större urval av böcker.
-Jag har märkt att ålänningar och några Sverigebor
+Jag har märkt att Ålänningar och några Sverigebor
 försöker läsa mina finska sidor.
 Därför hade jag lust att försöka få några sidor på svenska.
 </p>
 <p>
-Dessa sidor fick sin början av behovet  
+De finska sidorna fick sin början av behovet  
 att organisera mina egna antäckningar.
  Därför  har materialet växt i helt tillfällig ordning.
   Nya sidor dyker opp bland de gamla. 

@@ -18,7 +18,7 @@
 
  </table>
  
-    < h1 >Matkaopas lasin sulatukseen </h1>
+    <h1>Matkaopas lasin sulatukseen </h1>
 <table cols="3" width="100%" border bgcolor="#a0e0a0">
   <tr>
     <td >
@@ -108,13 +108,7 @@ Tämän sivuston tarkoituksena on opastaa lasin sulatukseen uunissa. Alue on kieht
 </td>
 </tr>
 </table>
-<br>
-  <div id="google_translate_element"></div>
-  <script type="text/javascript">
-function googleTranslateElementInit()
- {  new google.translate.TranslateElement({pageLanguage: 'fi', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, multilanguagePage: true}, 'google_translate_element');}
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 <table border bgcolor="#ffffe0" align=center width=80%>
 <td>
 <font size="-2"><strong>Copyright 2007,2011 Lauri Levanto</strong> &nbsp;&nbsp;

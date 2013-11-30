@@ -9,7 +9,7 @@
 <table  COLS=3 WIDTH="100%"  >
 <td>
 
-<table width="30%">
+<table>
  <tr>
    <td> 
             <?php include "./menu1-sv.html"; ?>   

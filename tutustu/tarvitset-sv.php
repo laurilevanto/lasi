@@ -14,11 +14,6 @@
             <?php include "./menu1-sv.html"; ?>   
     </td>  
  <br>
-
-
-
- 
-
    </td>
  
  <!---END vasen--->
@@ -85,7 +80,7 @@ lue lisää
   </td>
   <td align=right>
 Nästa sidan är<br>
-<a href="./turvallisuus1-sv.html">  
+<a href="./turvallisuus1-sv.php">  
 Om säkerheten</a>
   </td>
 

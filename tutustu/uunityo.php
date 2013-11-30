@@ -2,22 +2,16 @@
  <?php include "../navi/head.html"; ?>
 	<BODY bgcolor="FFFFFF" text="000000" link="0000FF" alink="FF0000" vlink="800080">
 
-<p><i>Lauri Levanto</i> <b>Lasinsulatus</b> Lukijalle 
+<p><i>Lauri Levanto</i> 
 
 <br>
-
+<p>1.4.1
+</p>
 <table  COLS=3 WIDTH="100%"  >
 <td>
 <!---vasen palsta--->
 <table>
-<tr width="20%">
-  <td  bgcolor="#ffffff">
-     <?php include "../navi/quickmenu.html"; ?><br>
-   </td>
-</tr>
-   <td> 
-            <?php include "../tutustu/titles-osa1.html"; ?>   
-    </td>  
+<tr >  
  </tr>
 </table>
    </td>
