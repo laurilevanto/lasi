@@ -4,32 +4,33 @@
 <tr>
   <td bgcolor="#ffffff" width="220">
   <a name="tarvikkeet" ></a>
-  <h3> Välineet ja tarvikkeet </h3></td>
-   <td bgcolor="#ffffff" valign="top">
-  uunityön työvälineitä, tarvikkeita ja materiaaleja
-   
-   </td>
+  <h3> Värktyg och redskap </h3></td>
+
+ 
 </tr>
 <tR>
-  <td bgcolor="#e0ffe0"> <A href="../tarv/luettelo.php"> Välineluettelo</A></td>
-  <td bgcolor="#ffffff">  Erilaisia työvälineitä</td>
+  <td bgcolor="#e0ffe0"> <A href="../tarv/luettelo.php"> Lista över värktyg</A></td>
+  <td bgcolor="#ffffff">  Olika värktyg</td>
 </tr>
 <tr>
-  <td  bgcolor="#e0ffe0"> <A href="../tarv/lasiveitsi1.php"> Lasiveitset</A></td>
-  <td bgcolor="#ffffff"> Erilaisa lasiveitsiä
+  <td  bgcolor="#e0ffe0"> <A href="../tarv/lasiveitsi1.php"> glasskärare</A></td>
+  <td bgcolor="#ffffff"> Olika glasskärare
   </td>
 </tr>
 <tr>
-  <td  bgcolor="#e0ffe0"> <a href="../tarv/leikkausoljy.php"> Leikkausöljy</a></td>
-   <td bgcolor="#ffffff"> Öljyn käyttö lasinleikkauksessa tekee sen helpommaksi</td>
+  <td  bgcolor="#e0ffe0"> <a href="../tarv/leikkausoljy.php"> Skärolje</a></td>
+   <td bgcolor="#ffffff"> Att använda olje med gasskäraren gör arbetet lättare
+</td>
 </tr>
 <tr>
-  <td bgcolor="#e0ffe0"> <a href="../tarv/leikk-alustat.php"> Leikkausalustat</a></td>
-  <td bgcolor="#ffffff">Välineitä helpottamaan leikkausta </td>
+  <td bgcolor="#e0ffe0"> <a href="../tarv/leikk-alustat.php"> Underlag för skärning</a></td>
+  <td bgcolor="#ffffff">Saker som gör lättare att skära
+ </td>
 </tr>
 <tr>
-  <td  bgcolor="#e0ffe0"> <A href="../tarv/pihdit.php"> Aukaisupihdit</A></td>
-  <td bgcolor="#ffffff"> Välineitä sauman aukaisuum <br>
+  <td  bgcolor="#e0ffe0"> <A href="../tarv/pihdit.php"> Olika tång</A></td>
+  <td bgcolor="#ffffff"> 
+  Värktyg att öppna skåran<br>
   aukaisupihdit <br>
   murtopihdit <br>
   rengaspihdit <br>
@@ -37,7 +38,8 @@
   </td>
 </tr>
 <tr>
-  <td bgcolor="#e0ffe0"> <a href="../tarv/hiomakone.php">Hiomakone</a></td>
+  <td bgcolor="#e0ffe0"> <a href="../tarv/hiomakone.php">
+  Slipmaskinen</a></td>
    <td bgcolor="#ffffff"> Reunanhiomakone nopeuttaa työtä ja sillä saa siistimpää jälkeä ja jopa porattua reikiä lasiin</td>
 </tr>
 <tr>
