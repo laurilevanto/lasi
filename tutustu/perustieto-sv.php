@@ -117,7 +117,7 @@ Muita aiheeseen liittyviä sivuja:
 
   <td  >
     <p align=left>
-    <a href="../framsida.php"><- Framsidan </a> <br>
+    <a href="../index-sv.html"><- Framsidan </a> <br>
  
    
   </td>

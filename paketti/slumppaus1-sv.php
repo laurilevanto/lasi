@@ -98,7 +98,7 @@ Muita aiheeseen liittyviä sivuja:
 <tr>
   <td  >
 
-   <A href="../index-dv.php"> Framsida</A> 
+   <A href="../index-sv.php"> Framsida</A> 
     </td>
     <td>
     <?php include "../navi/copy2.html"; ?>
