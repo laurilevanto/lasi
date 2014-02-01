@@ -193,6 +193,17 @@
     <td>&nbsp;</td>
 </tr>
 <tr>
+  <td> Kruunulasi </td>
+  <td>Vanha ikkunalasin valmistustekniikka, jossa lpuhallettu asipallo
+  avattiin toisesta päästä ja pyörittämällä lingottiin suureksi levyksi. 
+  Pyöreä kruunulasi voitiin lwikata neliöksi, 
+  jolloin keskelle jäi häränsimä "bullseye". 
+  Taloudellisempi tapa oli leikata siitä kolme salmiakin muotoista vinoneliötä.
+  Vinoruutujen käyttö säilyi pitsihuviloiden aikaan, ja vieläkin.
+  </td> 
+  <td> Crown glass  </td>
+</tr>
+<tr>
     <td>Kukkaruukkusulatus</td>
     <td>katso <a href="#Ruukkusulatus">Ruukkusulatus </a></td>
     <td>&nbsp;</td>
