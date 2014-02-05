@@ -33,11 +33,11 @@ Skarpa skärver förekommer! <br>
 
 <b>Nånting mjukt</b> på bordet,  tidningar eller  en gammal handduk eller liknande mjukt. 
 Tunn gummimatta är utmärkt. <br>
-<strong>Skyddsglasögon</strong> . som bör skydda äver från sidorna. 
+<strong><font color=#ff0000">Skyddsglasögon  </font> </strong> . som bör skydda äver från sidorna. 
 Glasskärva i ögan är en allvarlig sak. <br>
-<b>Anteckningshäfte.</b> <br>
-Ett ave de viktigaste redan i början!
-<b>Englas skärare</b>. köp inte detn billigaste modell en 
+<b>Anteckningshäfte.</b> 
+Ett av de viktigaste redan i början! <br>
+<b>En glas skärare</b>. köp inte det billigaste modellen 
 som har en revolverhuvud med flera trissar.
  Antalet trissor visar att de är nästan enbruks vara. 
   De blir slöa snabbt, men man märker det endast när en 
