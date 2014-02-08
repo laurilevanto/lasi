@@ -11,7 +11,7 @@
 <!---vasen palsta--->
 <tr>
 <td> 
-            <?php include "./menu1-sv.html"; ?>   
+            <?php include "../navi/quickmenu.html"; ?>   
     </td>  
  <br>
    </td>
