@@ -102,7 +102,7 @@ T‰m‰n sivuston tarkoituksena on opastaa lasin sulatukseen uunissa. Alue on kieht
  <img src="./campanula.jpg" alt="" width=250 />  <br> 
   <strong>Kev‰‰n kukkia </strong> <br>
   <strong>Blonstertid</strong> <br>
-  <strong>zspring flowers</strong> <br>
+  <strong>Spring Flowers</strong> <br>
 <br>
   </img>
   </a>
