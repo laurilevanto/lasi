@@ -98,10 +98,12 @@ T‰m‰n sivuston tarkoituksena on opastaa lasin sulatukseen uunissa. Alue on kieht
         </td>
  
     <td> <td width=30% bgcolor="#ffffff" align=center >
-  <a href="./valk-tuikku.jpg"> 
- <img src="./valk-tuikku.jpg" alt="" width=250 />  <br> 
-  <strong>Talven valoa </strong><em><strong>Winter Light</strong>
-  </em><br>
+ 
+ <img src="./campanula.jpg" alt="" width=250 />  <br> 
+  <strong>Kev‰‰n kukkia </strong> <br>
+  <strong>Blonstertid</strong> <br>
+  <strong>zspring flowers</strong> <br>
+<br>
   </img>
   </a>
    <br>
