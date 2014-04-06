@@ -1,8 +1,11 @@
 
 <html>
-
-<h3>Viimeistely</h3>
-<h3>Reunan hiominen</h3>
+<table>
+<tr>
+<td> <a name="hionta"></a>
+<h3>3.5. Viimeistely</h3>
+<h4>3.5.1Reunan hiominen</h4>
+<p>
 Kun lasi on avattu, leikkausreunan yläkulmassa on viirun jälki. 
 Alakulma sen sijaan on terävä. 
 Monelta veritipalta säästyy kun käsihiontatyynyllä tai 
@@ -15,6 +18,83 @@ Se saattaa näkyä sameana fuusauksen jälkeen.
 Erityisen tuhoisaa on jos siihen antaa kuivua hiomapölyä. 
 Ota tavaksi upottaa hiotut palat veteen 
 kunnes pääset pesemään kaikista hiomapölyn pois.
+</p>
+Kaikista hiontatehtävistä selviää 
+käsihiomatyynyillä  ja kärsivällisyydellä.
+Hionta aloitetaan karkealla 60-80 grit ja jatketaan hienommilla
+200,400,800 ja tarvittaesa kiilloitukseen asti. 
+Koneet tietystti nopeuttavat työtä
+<p>
+Kuvassa 2 on reunan hiomakone. 
+Siihen saa lisälaitteena myös
+poranteriä. 
+ Kuvassa 3 on porakoneeseen liitetty hiomalaite.
+Huomaa suihkepullo. 
+Timanttityökaluja on käytettävä aina kosteana.
+</p><p>
+Kuvan 4 tasohiomakone on kallis suurten timanttilaikkojensa takia,
+Se on kuitenkin erinomainen kookkaiden esineiden hionnassa.
+</p>
+</td>
+<td valign="top">
+<img src="./s351handpads.jpg"> </img> <br>
+Kuva1 Käsihiontatyynyjä.
+<img src="./s351kristall.jpg"> </img> <br>
+kuva 1 Reunanhiomakone <br>
+<img src="./s351hionta3.jpg" width="300" > <br>
+kuva 2 Hiomalaite porakoneeseen <br>
+<img src="./s351flatlap.jpg" width="300"> </img> <br>
+kuva 3 Tasohiomakone lasin käsittelyyn
+</td>
+</tr>
 
+<tr>
+<p>
+<a name="koonti">
+<h4> 3.5.2. Työn kokoaminen</h4>
+Kun kaikki palaset on valmiina kootaan työ polttoa varten.
+Yksinkertainen työ voidaan koota suoraan uunilevylle
+ joko uuniin tai sen lähellä.
+ Monipalainen työ kannataa liimata yhteen. 
+ Erityisesti jos joutuu kuljettamaan sen esim. kotoa polttopaikalle.
+ CMC on hyvä mutta hitaasti kuivuva liima. 
+ Väritön kynsilakka on erinomainen tai 
+ sen halvempi versio lennokkiliima.
+ Jos pitää koota toisiinsa tiiviisti asettuvat palat 
+ olen käärinyt ne tuorekelmuun.
+ Sekin palaa jäljettömiin.
+ </p><p>
+ Monet ohjeet suosittelevat valkoista PVA-liimaa kuten Eri-Keeper. 
+ Sitä pitää ohentaa runsaasti koska sillä on taipumus jättää tuhkajälki.
+ </p><p>
+ Voi myös kokeilla Scotch Magic (tm) asiakirjateippiä.
+ </p><p>
+ Klassinen keino on liimata hunajalla. 
+ Hunaja kuitenkin muuttuu nestemäiseksi ennekuin palaa pois.
+ </p><p>
+ Pitää muistaa että <i>kaikki liimat palavat pois 
+ ennenkuin fuusautuminen alkaa</i>. 
+ Liiman tehtävä on suojata kuljetuksen ajan.
+ Uunissa palojen täytyy pysyä kohdallaan ilman liiman tukea.
+</td>
+</tr>
+</table>
 
+<table width="100%" border> 
+   <td align="left"> <- edellinen sivu 
+         <a href="s344lyonti.html"> Muita tapoja </a> <br> <br>
+      <a href="./s30menu.html"><- jakson alkuun </a> <br>
+   <a href="../index.php"><- Etusivulle</a>
+   </td>
+      <td align="center">
+Copyright 2007,2014 Lauri Levanto &nbsp; <br>
+;URL <a href="http://lauri.lsd.dk/lasi/copyright.html">
+ http://lauri.lsd.dk/lasi/Copyright</a>
+
+</td>
+   <td align="right">  seuraava sivu -><br>
+     <a href="../section4//s40menu.html"> 
+     Mitä uunissa tapahtuu</a>
+   </td>
+   </table>
 </html>
