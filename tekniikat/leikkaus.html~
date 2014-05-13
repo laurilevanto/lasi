@@ -141,6 +141,55 @@ Normaalikäytössä tarvitaan vain yksi veitsi.
 
 
 
+
+
+
+
+<br>
+<a href="#leikkaustop"> Ylös</a>
+
+<a name="alusta"></a>
+<html>
+&nbsp; <br> <a name="leikkaustop"></a>
+<h2>Lasin leikkaaminen</h2>
+Aiheen laajuuden takia alla on taulukko väliotsikoista, joihin pääsee
+klikkaamaan suoraan.
+<table border>
+ <tr>
+   <td> <a href="./leikkaus.html#leikk-veitsi"> Lasiveitsi </a></td> 
+   <td> <a href="./leikkaus.html#alusta"> Leikkausalusta </a></td> 
+   <td> <a href="./leikkaus.html#ohut"> Ohut ja paksu lasi</a></td> 
+ </tr>
+  <tr>
+   <td> <a href="./leikkaus.html#viiru"> Viirun vetäminen</a></td> 
+   <td> <a href="./leikkaus.html#tuki"> Lasiveitsen tukeminen</a></td> 
+   <td> <a href="./leikkaus.html#viivain"> Viivottimen kanssa leikkaus</a></td> 
+ </tr>
+ <tr>
+   <td> <a href="./leikkaus.html#ympy"> Ympyrän leikkaus </a></td> 
+   <td> <a href="./leikkaus.html#lieri"> Pyöreä reunus</a></td> 
+   <td> <a href="./leikkaus.html#reika"> Sisäpuolinen ympyrä</a></td> 
+</tr>
+<tr>
+   <td> <a href="./leikkaus.html#sirppi"> Kuun sirppi </a></td> 
+   <td> <a href="./leikkaus.html#muoto"> Muotoleikkaus </a></td>
+   <td> <a href="./leikkaus.html#sahaus"> Sahaus ja 
+   jyrsintä </a></td>
+ </tr>
+ <tr>
+ <td> <a href="./leikkaus.html#vaikea"> vaikea lasi </a></td>
+ <td bgcolor="#e0ffe0"> <a href="./aukaisu.html"> Leikkauksen aukaisu</a></td>
+ <td bgcolor="#e0ffe0"> <a href="./leikkaus.html#muitasivuja"> muita sivuja </a></td>
+ 
+</table>
+<p>&nbsp;</p>
+<table>
+<tr>
+  <td>
+  
+  </td>
+
+
 <a name="leikk-veitsi"></a>
 <h3>Lasiveitsi</h3>
 
