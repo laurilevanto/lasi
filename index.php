@@ -14,6 +14,9 @@
      <td ><strong><font size="+1">Lauri Levanto</font></strong></td>
       <td align=right>&nbsp;&nbsp;<em>lauri</em></td><td>@</td> <td><em>lsd.dk</em></td> 
      </td>
+ </tr>
+ <tr>
+     <td><b>Lauri <a href="rip.php">kuoli</a> 30.10.2014</b></td>
    </tr>    
 
  </table>
