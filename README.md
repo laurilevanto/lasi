@@ -1,9 +1,12 @@
 
 Laurin Lasisivut
 
-This repo contains the web pages aboiut warm glass work, produced by my late
-father, Lauri Levanto. I put them up on GitHub to be sure they have a home
-if I ever have to stop hosting them.
+This repo contains the web pages about warm glass work, produced by my late
+father, Lauri Levanto.  The pages are visible at http://lauri.lsd.dk/ They
+are mostly in Finnish, but there are sections in English and Swedish as well.
+
+I put them up on GitHub to be sure they have a home if I ever have to stop 
+hosting them.
 
 The pages consist of html files with all the actual material, and php files
 that serve only to include the various parts of the pages, most importantly
